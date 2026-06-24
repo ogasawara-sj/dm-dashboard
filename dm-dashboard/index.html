@@ -15,7 +15,7 @@
     --border:   rgba(0,0,0,0.08);
     --border2:  rgba(0,0,0,0.15);
     --text:     #1a1a2e;
-    --muted:    #6b7280;
+    --muted:    #4b5563;
     --accent:   #4f8ef7;
     --green:    #34d399;
     --red:      #f87171;
@@ -24,6 +24,7 @@
   }
   html { background: var(--bg); color: var(--text); font-family: var(--font); font-size: 14px; }
   body { min-height: 100vh; }
+  .muted { color: #4b5563; }
 
   /* ── レイアウト ── */
   .shell { display: grid; grid-template-columns: 220px 1fr; min-height: 100vh; }
@@ -44,7 +45,7 @@
   }
   .logo span { color: var(--accent); }
   .nav { padding: 16px 0; }
-  .nav-label { padding: 8px 20px 4px; font-size: 11px; color: var(--text); letter-spacing: 0.06em; text-transform: uppercase; opacity: 0.6; }
+  .nav-label { padding: 8px 20px 4px; font-size: 11px; color: #374151; letter-spacing: 0.06em; text-transform: uppercase; }
   .nav-item {
     display: flex; align-items: center; gap: 10px;
     padding: 9px 20px; cursor: pointer;
@@ -64,7 +65,7 @@
   /* ── ページヘッダー ── */
   .page-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 24px; flex-wrap: wrap; gap: 12px; }
   .page-title { font-size: 20px; font-weight: 600; }
-  .page-title small { font-size: 13px; color: var(--muted); font-weight: 400; margin-left: 8px; }
+  .page-title small { font-size: 13px; color: #374151; font-weight: 400; margin-left: 8px; }
 
   /* ── フィルター ── */
   .filters { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
@@ -84,7 +85,7 @@
     background: var(--bg2); border: 1px solid var(--border);
     border-radius: 10px; padding: 16px 18px;
   }
-  .kpi-label { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 8px; }
+  .kpi-label { font-size: 11px; color: #374151; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 8px; }
   .kpi-value { font-size: 24px; font-weight: 700; line-height: 1; }
   .kpi-sub { font-size: 11px; color: var(--muted); margin-top: 4px; }
   .kpi-value.pos { color: var(--green); }
@@ -96,7 +97,7 @@
     background: var(--bg2); border: 1px solid var(--border);
     border-radius: 10px; padding: 20px; margin-bottom: 20px;
   }
-  .panel-title { font-size: 13px; font-weight: 600; color: var(--text); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 16px; }
+  .panel-title { font-size: 13px; font-weight: 600; color: #1f2937; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 16px; }
   .panel-grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 20px; }
 
   /* ── チャートラッパー ── */
@@ -108,12 +109,12 @@
   table { width: 100%; border-collapse: collapse; font-size: 12px; }
   th {
     text-align: right; padding: 8px 10px;
-    font-size: 11px; font-weight: 600; color: var(--muted); text-transform: uppercase; letter-spacing: 0.04em;
+    font-size: 11px; font-weight: 600; color: #374151; text-transform: uppercase; letter-spacing: 0.04em;
     border-bottom: 1px solid var(--border); white-space: nowrap;
   }
   th:first-child { text-align: left; }
   td { text-align: right; padding: 7px 10px; border-bottom: 1px solid var(--border); color: var(--text); white-space: nowrap; }
-  td:first-child { text-align: left; color: var(--muted); }
+  td:first-child { text-align: left; color: #1f2937; }
   tr:hover td { background: var(--bg3); }
   .pos { color: var(--green); }
   .neg { color: var(--red); }
@@ -131,7 +132,7 @@
   /* ── ヒートマップ ── */
   .heatmap-scroll { overflow-x: auto; }
   .heatmap-table { border-collapse: separate; border-spacing: 3px; }
-  .heatmap-table th { font-size: 11px; color: var(--muted); padding: 4px 6px; white-space: nowrap; }
+  .heatmap-table th { font-size: 11px; color: #374151; padding: 4px 6px; white-space: nowrap; }
   .heatmap-cell {
     min-width: 58px; padding: 6px 4px;
     font-size: 11px; text-align: center; border-radius: 5px;
@@ -157,7 +158,7 @@
     display: flex; align-items: center; gap: 8px;
     padding: 8px 14px; background: rgba(79,142,247,0.08);
     border: 1px solid rgba(79,142,247,0.2); border-radius: 8px;
-    font-size: 12px; color: var(--accent); margin-bottom: 20px;
+    font-size: 12px; color: #1d4ed8; margin-bottom: 20px;
   }
 </style>
 </head>
@@ -536,8 +537,8 @@ function lineOpts(yFmt) {
     interaction: { mode: 'index' },
     plugins: { legend: { display: false }, tooltip: { callbacks: { label: ctx => `${ctx.dataset.label}: ${yFmt(ctx.raw)}` } } },
     scales: {
-      x: { grid: { color: 'rgba(0,0,0,0.06)' } },
-      y: { grid: { color: 'rgba(0,0,0,0.06)' }, ticks: { callback: v => fmtShort(v,'p3') } }
+      x: { grid: { color: 'rgba(0,0,0,0.08)' } },
+      y: { grid: { color: 'rgba(0,0,0,0.08)' }, ticks: { callback: v => fmtShort(v,'p3') } }
     }
   };
 }
@@ -636,8 +637,8 @@ function renderOverview() {
       responsive: true, maintainAspectRatio: false,
       plugins: { legend: { display: false }, tooltip: { callbacks: { label: ctx => fmt(ctx.raw,'p3') } } },
       scales: {
-        x: { grid: { color: 'rgba(0,0,0,0.06)' } },
-        y: { grid: { color: 'rgba(0,0,0,0.06)' }, ticks: { callback: v => fmtShort(v,'p3') } }
+        x: { grid: { color: 'rgba(0,0,0,0.08)' } },
+        y: { grid: { color: 'rgba(0,0,0,0.08)' }, ticks: { callback: v => fmtShort(v,'p3') } }
       }
     }
   });
@@ -728,8 +729,8 @@ function renderTrend() {
       interaction: { mode: 'index' },
       plugins: { legend: { display: false }, tooltip: { callbacks: { label: ctx => `${ctx.dataset.label}: ${fmtShort(ctx.raw, metric)}` } } },
       scales: {
-        x: { grid: { color: 'rgba(0,0,0,0.06)' } },
-        y: { grid: { color: 'rgba(0,0,0,0.06)' }, ticks: { callback: v => fmtShort(v, metric) } }
+        x: { grid: { color: 'rgba(0,0,0,0.08)' } },
+        y: { grid: { color: 'rgba(0,0,0,0.08)' }, ticks: { callback: v => fmtShort(v, metric) } }
       }
     }
   });
@@ -778,8 +779,8 @@ function renderCategory() {
       interaction: { mode: 'index' },
       plugins: { legend: { display: false }, tooltip: { callbacks: { label: ctx => `${ctx.dataset.label}: ${fmtShort(ctx.raw, metric)}` } } },
       scales: {
-        x: { stacked: true, grid: { color: 'rgba(0,0,0,0.06)' } },
-        y: { stacked: true, grid: { color: 'rgba(0,0,0,0.06)' }, ticks: { callback: v => fmtShort(v, metric) } }
+        x: { stacked: true, grid: { color: 'rgba(0,0,0,0.08)' } },
+        y: { stacked: true, grid: { color: 'rgba(0,0,0,0.08)' }, ticks: { callback: v => fmtShort(v, metric) } }
       }
     }
   });
@@ -806,8 +807,8 @@ function renderCategory() {
       plugins: { legend: { display: true, labels: { color: '#6b7280', font: { size: 11 }, boxWidth: 14 } },
                  tooltip: { callbacks: { label: ctx => `${ctx.dataset.label}: ${fmt(ctx.raw,'p3')}` } } },
       scales: {
-        x: { grid: { color: 'rgba(0,0,0,0.06)' } },
-        y: { grid: { color: 'rgba(0,0,0,0.06)' }, ticks: { callback: v => fmtShort(v,'p3') } }
+        x: { grid: { color: 'rgba(0,0,0,0.08)' } },
+        y: { grid: { color: 'rgba(0,0,0,0.08)' }, ticks: { callback: v => fmtShort(v,'p3') } }
       }
     }
   });
@@ -947,8 +948,8 @@ function renderProducts() {
       plugins: { legend: { display: false },
                  tooltip: { callbacks: { label: ctx => `${ctx.dataset.label}: ${fmtShort(ctx.raw, metric==='orders'?'send_count':'p3')}` } } },
       scales: {
-        x: { stacked: true, grid: { color: 'rgba(0,0,0,0.06)' } },
-        y: { stacked: true, grid: { color: 'rgba(0,0,0,0.06)' },
+        x: { stacked: true, grid: { color: 'rgba(0,0,0,0.08)' } },
+        y: { stacked: true, grid: { color: 'rgba(0,0,0,0.08)' },
              ticks: { callback: v => fmtShort(v, metric==='orders'?'send_count':'p3') } }
       }
     }
@@ -982,8 +983,8 @@ function renderProducts() {
       plugins: { legend: { display: false },
                  tooltip: { callbacks: { label: ctx => `${ctx.dataset.label}: ${ctx.raw}%` } } },
       scales: {
-        x: { grid: { color: 'rgba(0,0,0,0.06)' } },
-        y: { min:0, max:100, grid: { color: 'rgba(0,0,0,0.06)' },
+        x: { grid: { color: 'rgba(0,0,0,0.08)' } },
+        y: { min:0, max:100, grid: { color: 'rgba(0,0,0,0.08)' },
              ticks: { callback: v => v+'%' } }
       }
     }
