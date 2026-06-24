@@ -1,0 +1,5152 @@
+{
+  "6": [
+    {
+      "promo": "お誕生日_発送DM_RO①_DMB130",
+      "product": "CCH7",
+      "revenue": 6754867,
+      "orders": 495,
+      "p3": 1830300,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO①_DMB130",
+      "product": "INV1",
+      "revenue": 3982854,
+      "orders": 203,
+      "p3": 712356,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO①_DMB130",
+      "product": "MQT",
+      "revenue": 2597327,
+      "orders": 215,
+      "p3": 208595,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO①_DMB130",
+      "product": "TRR2",
+      "revenue": 2277005,
+      "orders": 65,
+      "p3": 331050,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO①_DMB130",
+      "product": "NICS",
+      "revenue": 1847817,
+      "orders": 121,
+      "p3": -252301,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO②_DMB131",
+      "product": "CCH7",
+      "revenue": 5327691,
+      "orders": 381,
+      "p3": 1560524,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO②_DMB131",
+      "product": "INV1",
+      "revenue": 3005467,
+      "orders": 139,
+      "p3": 600019,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO②_DMB131",
+      "product": "MQT",
+      "revenue": 2483604,
+      "orders": 192,
+      "p3": 499528,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO②_DMB131",
+      "product": "TRR2",
+      "revenue": 2162043,
+      "orders": 67,
+      "p3": 584108,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO②_DMB131",
+      "product": "NICS",
+      "revenue": 1530095,
+      "orders": 98,
+      "p3": -69620,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO③_DMB132",
+      "product": "CCH7",
+      "revenue": 1859567,
+      "orders": 145,
+      "p3": 472196,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO③_DMB132",
+      "product": "INV1",
+      "revenue": 1121725,
+      "orders": 50,
+      "p3": 198132,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO③_DMB132",
+      "product": "MQT",
+      "revenue": 790285,
+      "orders": 67,
+      "p3": 74902,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO③_DMB132",
+      "product": "NICS",
+      "revenue": 342718,
+      "orders": 26,
+      "p3": -174900,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO③_DMB132",
+      "product": "TRR2",
+      "revenue": 275167,
+      "orders": 8,
+      "p3": -155060,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO①_DMC173",
+      "product": "TRR2",
+      "revenue": 19053773,
+      "orders": 551,
+      "p3": 5334723,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO①_DMC173",
+      "product": "TRAF",
+      "revenue": 16666817,
+      "orders": 504,
+      "p3": 3544822,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO①_DMC173",
+      "product": "TRPA",
+      "revenue": 182593,
+      "orders": 4,
+      "p3": 118680,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO①_DMC173",
+      "product": "TRPM",
+      "revenue": 78351,
+      "orders": 2,
+      "p3": 27829,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO①_DMC173",
+      "product": "TRPR3",
+      "revenue": 71702,
+      "orders": 2,
+      "p3": 19421,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO②_DMC174",
+      "product": "TRAF",
+      "revenue": 7687386,
+      "orders": 229,
+      "p3": 2298647,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO②_DMC174",
+      "product": "TRR2",
+      "revenue": 7591532,
+      "orders": 228,
+      "p3": 2358877,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO②_DMC174",
+      "product": "TRPA",
+      "revenue": 112076,
+      "orders": 3,
+      "p3": 71117,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO②_DMC174",
+      "product": "TR7A",
+      "revenue": 56663,
+      "orders": 2,
+      "p3": 38873,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO②_DMC174",
+      "product": "TRCS",
+      "revenue": 32278,
+      "orders": 1,
+      "p3": 19561,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO③_DMC175",
+      "product": "TRR2",
+      "revenue": 10157786,
+      "orders": 304,
+      "p3": 2145002,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO③_DMC175",
+      "product": "TRAF",
+      "revenue": 9876824,
+      "orders": 300,
+      "p3": 1833579,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO③_DMC175",
+      "product": "TRPA",
+      "revenue": 151337,
+      "orders": 3,
+      "p3": 95313,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO③_DMC175",
+      "product": "TRPM",
+      "revenue": 116176,
+      "orders": 3,
+      "p3": 46067,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト_DMC176",
+      "product": "TRAF",
+      "revenue": 1848242,
+      "orders": 54,
+      "p3": 438532,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト_DMC176",
+      "product": "TRR2",
+      "revenue": 1660191,
+      "orders": 49,
+      "p3": 346153,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト_DMC176",
+      "product": "TRPA",
+      "revenue": 63996,
+      "orders": 2,
+      "p3": 43288,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト_DMC176",
+      "product": "TRPM",
+      "revenue": 46798,
+      "orders": 1,
+      "p3": 15919,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRSキャンペーン_発送DM_テスト①_DMF147",
+      "product": "TRR2",
+      "revenue": 623989,
+      "orders": 21,
+      "p3": -368947,
+      "category": "TRSキャンペーン"
+    },
+    {
+      "promo": "TRSキャンペーン_発送DM_テスト①_DMF147",
+      "product": "TRAF",
+      "revenue": 388545,
+      "orders": 13,
+      "p3": -524099,
+      "category": "TRSキャンペーン"
+    },
+    {
+      "promo": "TRSキャンペーン_発送DM_テスト②_DMF148",
+      "product": "TRAFS",
+      "revenue": 1582578,
+      "orders": 73,
+      "p3": 102778,
+      "category": "TRSキャンペーン"
+    },
+    {
+      "promo": "TRSキャンペーン_発送DM_テスト②_DMF148",
+      "product": "TRSP",
+      "revenue": 765845,
+      "orders": 38,
+      "p3": -327704,
+      "category": "TRSキャンペーン"
+    },
+    {
+      "promo": "CCHシリーズ_発送DM_テスト①_DME27",
+      "product": "CCHT2",
+      "revenue": 915533,
+      "orders": 39,
+      "p3": 139616,
+      "category": "CCHシリーズ"
+    },
+    {
+      "promo": "CCHシリーズ_発送DM_テスト①_DME27",
+      "product": "CCH7",
+      "revenue": 894993,
+      "orders": 67,
+      "p3": 168721,
+      "category": "CCHシリーズ"
+    },
+    {
+      "promo": "CCHシリーズ_発送DM_テスト①_DME27",
+      "product": "NICS",
+      "revenue": 241264,
+      "orders": 18,
+      "p3": -139239,
+      "category": "CCHシリーズ"
+    },
+    {
+      "promo": "CCHシリーズ_発送DM_テスト①_DME27",
+      "product": "MQT",
+      "revenue": 178299,
+      "orders": 15,
+      "p3": -160951,
+      "category": "CCHシリーズ"
+    },
+    {
+      "promo": "CCHシリーズ_発送DM_テスト①_DME27",
+      "product": "RASA",
+      "revenue": 110849,
+      "orders": 7,
+      "p3": 66097,
+      "category": "CCHシリーズ"
+    },
+    {
+      "promo": "CCHシリーズ_発送DM_テスト②_DME28",
+      "product": "CCH7",
+      "revenue": 1055726,
+      "orders": 81,
+      "p3": -11700,
+      "category": "CCHシリーズ"
+    },
+    {
+      "promo": "CCHシリーズ_発送DM_テスト②_DME28",
+      "product": "CCHT2",
+      "revenue": 1010215,
+      "orders": 49,
+      "p3": -74318,
+      "category": "CCHシリーズ"
+    },
+    {
+      "promo": "CCHシリーズ_発送DM_テスト②_DME28",
+      "product": "TRR2",
+      "revenue": 32825,
+      "orders": 1,
+      "p3": 21050,
+      "category": "CCHシリーズ"
+    },
+    {
+      "promo": "CCHシリーズ_発送DM_テスト②_DME28",
+      "product": "SOY",
+      "revenue": 14100,
+      "orders": 1,
+      "p3": 8117,
+      "category": "CCHシリーズ"
+    },
+    {
+      "promo": "CCH買い替え_発送DM_テスト①_DME29",
+      "product": "CCHT2",
+      "revenue": 1163945,
+      "orders": 53,
+      "p3": 257517,
+      "category": "CCH買い替え"
+    },
+    {
+      "promo": "CCH買い替え_発送DM_テスト①_DME29",
+      "product": "CCH7",
+      "revenue": 516261,
+      "orders": 42,
+      "p3": -12166,
+      "category": "CCH買い替え"
+    },
+    {
+      "promo": "CCH買い替え_発送DM_テスト①_DME29",
+      "product": "MQT",
+      "revenue": 163804,
+      "orders": 15,
+      "p3": -171499,
+      "category": "CCH買い替え"
+    },
+    {
+      "promo": "CCH買い替え_発送DM_テスト①_DME29",
+      "product": "NICS",
+      "revenue": 97731,
+      "orders": 5,
+      "p3": -211728,
+      "category": "CCH買い替え"
+    },
+    {
+      "promo": "CCH買い替え_発送DM_テスト②_DME30",
+      "product": "CCHT2",
+      "revenue": 1546107,
+      "orders": 67,
+      "p3": 164830,
+      "category": "CCH買い替え"
+    },
+    {
+      "promo": "CCH買い替え_発送DM_テスト②_DME30",
+      "product": "CCH7",
+      "revenue": 679433,
+      "orders": 53,
+      "p3": -194031,
+      "category": "CCH買い替え"
+    },
+    {
+      "promo": "CCH買い替え_発送DM_テスト②_DME30",
+      "product": "RAHK",
+      "revenue": 39055,
+      "orders": 1,
+      "p3": 26540,
+      "category": "CCH買い替え"
+    },
+    {
+      "promo": "CCH買い替え_発送DM_テスト②_DME30",
+      "product": "RASA",
+      "revenue": 31945,
+      "orders": 2,
+      "p3": 19050,
+      "category": "CCH買い替え"
+    },
+    {
+      "promo": "CCH買い替え_発送DM_テスト②_DME30",
+      "product": "RAH",
+      "revenue": 27664,
+      "orders": 2,
+      "p3": 19118,
+      "category": "CCH買い替え"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_RO_DMF149",
+      "product": "RAHK",
+      "revenue": 11140658,
+      "orders": 460,
+      "p3": 4480530,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_RO_DMF149",
+      "product": "RASA",
+      "revenue": 6160796,
+      "orders": 426,
+      "p3": 609235,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_RO_DMF149",
+      "product": "RAH",
+      "revenue": 787192,
+      "orders": 62,
+      "p3": 531291,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "シニア転倒訴求_発送DM_テスト_DMF150",
+      "product": "NICS",
+      "revenue": 680272,
+      "orders": 45,
+      "p3": -438771,
+      "category": "シニア訴求"
+    },
+    {
+      "promo": "シニア転倒訴求_発送DM_テスト_DMF150",
+      "product": "MQT",
+      "revenue": 612306,
+      "orders": 50,
+      "p3": -445235,
+      "category": "シニア訴求"
+    },
+    {
+      "promo": "シニア転倒訴求_発送DM_テスト_DMF150",
+      "product": "RAH",
+      "revenue": 23253,
+      "orders": 2,
+      "p3": 15780,
+      "category": "シニア訴求"
+    }
+  ],
+  "7": [
+    {
+      "promo": "お誕生日_発送DM_RO①_DMB133",
+      "product": "CCH7",
+      "revenue": 5427009,
+      "orders": 409,
+      "p3": 1422890,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO①_DMB133",
+      "product": "INV1",
+      "revenue": 3219390,
+      "orders": 157,
+      "p3": 570299,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO①_DMB133",
+      "product": "MQT",
+      "revenue": 2224565,
+      "orders": 174,
+      "p3": 258455,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO①_DMB133",
+      "product": "SOY",
+      "revenue": 1871204,
+      "orders": 112,
+      "p3": 167788,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO①_DMB133",
+      "product": "TRR2",
+      "revenue": 1831646,
+      "orders": 53,
+      "p3": 258081,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO②_DMB134",
+      "product": "CCH7",
+      "revenue": 5423393,
+      "orders": 406,
+      "p3": 1505864,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO②_DMB134",
+      "product": "INV1",
+      "revenue": 2704852,
+      "orders": 133,
+      "p3": 403957,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO②_DMB134",
+      "product": "MQT",
+      "revenue": 2040374,
+      "orders": 167,
+      "p3": 212797,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO②_DMB134",
+      "product": "TRR2",
+      "revenue": 1751206,
+      "orders": 56,
+      "p3": 263502,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO②_DMB134",
+      "product": "SOY",
+      "revenue": 1722325,
+      "orders": 101,
+      "p3": 154496,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO③_DMB135",
+      "product": "CCH7",
+      "revenue": 281569,
+      "orders": 25,
+      "p3": 52518,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO③_DMB135",
+      "product": "INV1",
+      "revenue": 232878,
+      "orders": 12,
+      "p3": 46926,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO③_DMB135",
+      "product": "SOY",
+      "revenue": 158993,
+      "orders": 11,
+      "p3": 31011,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO③_DMB135",
+      "product": "TRR2",
+      "revenue": 154554,
+      "orders": 6,
+      "p3": 38786,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO③_DMB135",
+      "product": "MQT",
+      "revenue": 137271,
+      "orders": 12,
+      "p3": 7786,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO①_DMC177",
+      "product": "TRR2",
+      "revenue": 10974144,
+      "orders": 334,
+      "p3": 1922055,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO①_DMC177",
+      "product": "TRAF",
+      "revenue": 10128731,
+      "orders": 307,
+      "p3": 1147207,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO①_DMC177",
+      "product": "TRPM",
+      "revenue": 111358,
+      "orders": 3,
+      "p3": 43160,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO①_DMC177",
+      "product": "TRPR3",
+      "revenue": 31636,
+      "orders": 1,
+      "p3": 13300,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO①_DMC177",
+      "product": "CCH7",
+      "revenue": 11900,
+      "orders": 1,
+      "p3": 5694,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO②_DMC178",
+      "product": "TRR2",
+      "revenue": 12370023,
+      "orders": 372,
+      "p3": 2949787,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO②_DMC178",
+      "product": "TRAF",
+      "revenue": 10109832,
+      "orders": 306,
+      "p3": 1235125,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO②_DMC178",
+      "product": "TRPM",
+      "revenue": 44189,
+      "orders": 1,
+      "p3": 16269,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO②_DMC178",
+      "product": "TR7A",
+      "revenue": 40236,
+      "orders": 2,
+      "p3": 21585,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO②_DMC178",
+      "product": "TR7N",
+      "revenue": 37253,
+      "orders": 1,
+      "p3": 25065,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO③_DMC179",
+      "product": "TRR2",
+      "revenue": 2296421,
+      "orders": 67,
+      "p3": 280655,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO③_DMC179",
+      "product": "TRAF",
+      "revenue": 1666433,
+      "orders": 47,
+      "p3": -184643,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO③_DMC179",
+      "product": "TRCE",
+      "revenue": 24800,
+      "orders": 1,
+      "p3": 9258,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト_DMC180",
+      "product": "TRR2",
+      "revenue": 1646090,
+      "orders": 49,
+      "p3": 379884,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト_DMC180",
+      "product": "TRAF",
+      "revenue": 1033438,
+      "orders": 32,
+      "p3": -55665,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト_DMC180",
+      "product": "TRPM",
+      "revenue": 47189,
+      "orders": 1,
+      "p3": 22388,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト_DMC180",
+      "product": "TRPA",
+      "revenue": 31953,
+      "orders": 1,
+      "p3": 21289,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト_DMC180",
+      "product": "TRSP",
+      "revenue": 24500,
+      "orders": 1,
+      "p3": 14013,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取WOW_発送DM_RO_DMC181",
+      "product": "TRAF",
+      "revenue": 3917672,
+      "orders": 116,
+      "p3": 889991,
+      "category": "TRS下取WOW"
+    },
+    {
+      "promo": "TRS下取WOW_発送DM_RO_DMC181",
+      "product": "TRSP",
+      "revenue": 3779071,
+      "orders": 180,
+      "p3": 521637,
+      "category": "TRS下取WOW"
+    },
+    {
+      "promo": "TRS下取WOW_発送DM_RO_DMC181",
+      "product": "TRCS",
+      "revenue": 263497,
+      "orders": 11,
+      "p3": 168718,
+      "category": "TRS下取WOW"
+    },
+    {
+      "promo": "TRS下取WOW_発送DM_RO_DMC181",
+      "product": "TRR2",
+      "revenue": 71662,
+      "orders": 2,
+      "p3": 43359,
+      "category": "TRS下取WOW"
+    },
+    {
+      "promo": "TRS下取WOW_発送DM_RO_DMC181",
+      "product": "TRSK",
+      "revenue": 5445,
+      "orders": 1,
+      "p3": 3622,
+      "category": "TRS下取WOW"
+    },
+    {
+      "promo": "RAH買い替え_発送DM_RO①_DMF151",
+      "product": "RASA",
+      "revenue": 14557450,
+      "orders": 1043,
+      "p3": 3483441,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH買い替え_発送DM_RO①_DMF151",
+      "product": "RAH",
+      "revenue": 7933240,
+      "orders": 569,
+      "p3": 600053,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH買い替え_発送DM_RO①_DMF151",
+      "product": "CCH7",
+      "revenue": 26386,
+      "orders": 1,
+      "p3": 17184,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH買い替え_発送DM_RO②_DMF152",
+      "product": "RASA",
+      "revenue": 14167010,
+      "orders": 1017,
+      "p3": 3832586,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH買い替え_発送DM_RO②_DMF152",
+      "product": "RAH",
+      "revenue": 7697748,
+      "orders": 553,
+      "p3": 1021051,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH買い替え_発送DM_RO②_DMF152",
+      "product": "RAHK",
+      "revenue": 101655,
+      "orders": 3,
+      "p3": 74635,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH買い替え_発送DM_RO③_DMF153",
+      "product": "RASA",
+      "revenue": 1302824,
+      "orders": 93,
+      "p3": 167201,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH買い替え_発送DM_RO③_DMF153",
+      "product": "RAH",
+      "revenue": 917464,
+      "orders": 64,
+      "p3": 53768,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "TR7買い替え_発送DM_RO_DMF154",
+      "product": "TR7A",
+      "revenue": 1876913,
+      "orders": 92,
+      "p3": 35441,
+      "category": "TR7買い替え"
+    },
+    {
+      "promo": "TR7買い替え_発送DM_RO_DMF154",
+      "product": "TR7N",
+      "revenue": 1834499,
+      "orders": 94,
+      "p3": -70017,
+      "category": "TR7買い替え"
+    },
+    {
+      "promo": "TR7買い替え_発送DM_RO_DMF154",
+      "product": "TRR2",
+      "revenue": 176372,
+      "orders": 4,
+      "p3": 121497,
+      "category": "TR7買い替え"
+    },
+    {
+      "promo": "TR7買い替え_発送DM_RO_DMF154",
+      "product": "TRAF",
+      "revenue": 81960,
+      "orders": 2,
+      "p3": 52299,
+      "category": "TR7買い替え"
+    },
+    {
+      "promo": "TR7買い替え_発送DM_RO_DMF154",
+      "product": "TRKF",
+      "revenue": 32334,
+      "orders": 1,
+      "p3": 24440,
+      "category": "TR7買い替え"
+    },
+    {
+      "promo": "シニア特別セール_発送DM_テスト_DMF155",
+      "product": "MQT",
+      "revenue": 1336810,
+      "orders": 114,
+      "p3": -18860,
+      "category": "シニア訴求"
+    },
+    {
+      "promo": "シニア特別セール_発送DM_テスト_DMF155",
+      "product": "RAH",
+      "revenue": 244547,
+      "orders": 19,
+      "p3": -200042,
+      "category": "シニア訴求"
+    },
+    {
+      "promo": "シニア特別セール_発送DM_テスト_DMF155",
+      "product": "LGMX",
+      "revenue": 70380,
+      "orders": 6,
+      "p3": -321030,
+      "category": "シニア訴求"
+    },
+    {
+      "promo": "シニア特別セール_発送DM_テスト_DMF155",
+      "product": "INV1",
+      "revenue": 24895,
+      "orders": 2,
+      "p3": 12144,
+      "category": "シニア訴求"
+    },
+    {
+      "promo": "シニア特別セール_発送DM_テスト_DMF155",
+      "product": "SOY",
+      "revenue": 18718,
+      "orders": 1,
+      "p3": 12963,
+      "category": "シニア訴求"
+    },
+    {
+      "promo": "CCHシリーズ_発送DM_テスト①_DME31",
+      "product": "CCHT2",
+      "revenue": 826279,
+      "orders": 39,
+      "p3": 158709,
+      "category": "CCHシリーズ"
+    },
+    {
+      "promo": "CCHシリーズ_発送DM_テスト①_DME31",
+      "product": "CCH7",
+      "revenue": 461286,
+      "orders": 40,
+      "p3": 26765,
+      "category": "CCHシリーズ"
+    },
+    {
+      "promo": "CCHシリーズ_発送DM_テスト①_DME31",
+      "product": "NICS",
+      "revenue": 139626,
+      "orders": 11,
+      "p3": -126072,
+      "category": "CCHシリーズ"
+    },
+    {
+      "promo": "CCHシリーズ_発送DM_テスト①_DME31",
+      "product": "MQT",
+      "revenue": 138889,
+      "orders": 11,
+      "p3": -118054,
+      "category": "CCHシリーズ"
+    },
+    {
+      "promo": "CCHシリーズ_発送DM_テスト①_DME31",
+      "product": "INV1",
+      "revenue": 64050,
+      "orders": 3,
+      "p3": 32463,
+      "category": "CCHシリーズ"
+    },
+    {
+      "promo": "CCHシリーズ_発送DM_テスト②_DME32",
+      "product": "CCHT2",
+      "revenue": 1081260,
+      "orders": 47,
+      "p3": 68662,
+      "category": "CCHシリーズ"
+    },
+    {
+      "promo": "CCHシリーズ_発送DM_テスト②_DME32",
+      "product": "CCH7",
+      "revenue": 736341,
+      "orders": 50,
+      "p3": -47591,
+      "category": "CCHシリーズ"
+    },
+    {
+      "promo": "CCHシリーズ_発送DM_テスト②_DME32",
+      "product": "RAH",
+      "revenue": 16280,
+      "orders": 1,
+      "p3": 10605,
+      "category": "CCHシリーズ"
+    },
+    {
+      "promo": "CCH買い替え_発送DM_RO_DME33",
+      "product": "CCHT2",
+      "revenue": 4548535,
+      "orders": 214,
+      "p3": 844433,
+      "category": "CCH買い替え"
+    },
+    {
+      "promo": "CCH買い替え_発送DM_RO_DME33",
+      "product": "CCH7",
+      "revenue": 1400112,
+      "orders": 98,
+      "p3": -441242,
+      "category": "CCH買い替え"
+    },
+    {
+      "promo": "CCH買い替え_発送DM_RO_DME33",
+      "product": "TRAF",
+      "revenue": 26553,
+      "orders": 1,
+      "p3": 18170,
+      "category": "CCH買い替え"
+    },
+    {
+      "promo": "CCH買い替え_発送DM_RO_DME33",
+      "product": "FDL",
+      "revenue": 18036,
+      "orders": 1,
+      "p3": 8055,
+      "category": "CCH買い替え"
+    },
+    {
+      "promo": "CCH買い替え_発送DM_RO_DME33",
+      "product": "RAH",
+      "revenue": 11553,
+      "orders": 1,
+      "p3": 7400,
+      "category": "CCH買い替え"
+    }
+  ],
+  "8": [
+    {
+      "promo": "お誕生日_発送DM_RO_DMB136",
+      "product": "INV2",
+      "revenue": 7208177,
+      "orders": 353,
+      "p3": 1773737,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO_DMB136",
+      "product": "MQT",
+      "revenue": 2891580,
+      "orders": 225,
+      "p3": 291446,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO_DMB136",
+      "product": "SOY",
+      "revenue": 2675448,
+      "orders": 171,
+      "p3": 290178,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO_DMB136",
+      "product": "TRR2",
+      "revenue": 2386190,
+      "orders": 71,
+      "p3": 307442,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO_DMB136",
+      "product": "NICS",
+      "revenue": 1802648,
+      "orders": 119,
+      "p3": -368481,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト_DMB137",
+      "product": "INV2",
+      "revenue": 1624922,
+      "orders": 79,
+      "p3": 380138,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト_DMB137",
+      "product": "MQT",
+      "revenue": 740557,
+      "orders": 60,
+      "p3": 73922,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト_DMB137",
+      "product": "SOY",
+      "revenue": 728439,
+      "orders": 42,
+      "p3": 102536,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト_DMB137",
+      "product": "NICS",
+      "revenue": 558707,
+      "orders": 40,
+      "p3": -40394,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト_DMB137",
+      "product": "TRR2",
+      "revenue": 381020,
+      "orders": 14,
+      "p3": -59694,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO_DMC182",
+      "product": "TRR2",
+      "revenue": 26168773,
+      "orders": 775,
+      "p3": -3108153,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO_DMC182",
+      "product": "TRAF",
+      "revenue": 22936373,
+      "orders": 676,
+      "p3": -5706064,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO_DMC182",
+      "product": "TRPM",
+      "revenue": 177811,
+      "orders": 4,
+      "p3": 73552,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO_DMC182",
+      "product": "TRPA",
+      "revenue": 128299,
+      "orders": 4,
+      "p3": 85717,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO_DMC182",
+      "product": "TRAF3",
+      "revenue": 120034,
+      "orders": 3,
+      "p3": 40475,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト_DMC183",
+      "product": "TRR2",
+      "revenue": 1426118,
+      "orders": 44,
+      "p3": 175455,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト_DMC183",
+      "product": "TRAF",
+      "revenue": 1086943,
+      "orders": 34,
+      "p3": -80418,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS追加購入_発送DM_テスト①_DMF159",
+      "product": "TRR2",
+      "revenue": 436295,
+      "orders": 15,
+      "p3": -264494,
+      "category": "その他"
+    },
+    {
+      "promo": "TRS追加購入_発送DM_テスト①_DMF159",
+      "product": "TRAF",
+      "revenue": 292772,
+      "orders": 10,
+      "p3": -356234,
+      "category": "その他"
+    },
+    {
+      "promo": "TRS追加購入_発送DM_テスト①_DMF159",
+      "product": "TRSZ",
+      "revenue": 8700,
+      "orders": 1,
+      "p3": 6116,
+      "category": "その他"
+    },
+    {
+      "promo": "TRS追加購入_発送DM_テスト②_DMF160",
+      "product": "TRAF",
+      "revenue": 340765,
+      "orders": 14,
+      "p3": -339232,
+      "category": "その他"
+    },
+    {
+      "promo": "TRS追加購入_発送DM_テスト②_DMF160",
+      "product": "TRR2",
+      "revenue": 241547,
+      "orders": 9,
+      "p3": -406364,
+      "category": "その他"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_RO_DMF156",
+      "product": "RAHK",
+      "revenue": 16007846,
+      "orders": 670,
+      "p3": 6828254,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_RO_DMF156",
+      "product": "RASA",
+      "revenue": 7860602,
+      "orders": 564,
+      "p3": 582793,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_RO_DMF156",
+      "product": "RAH",
+      "revenue": 1030973,
+      "orders": 79,
+      "p3": 696207,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_RO_DMF156",
+      "product": "MQT",
+      "revenue": 9990,
+      "orders": 1,
+      "p3": 5829,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "SOY大豆追加購入_発送DM_テスト_DME34",
+      "product": "SOY",
+      "revenue": 1905016,
+      "orders": 206,
+      "p3": -95244,
+      "category": "その他"
+    }
+  ],
+  "9": [
+    {
+      "promo": "お誕生日_発送DM_RO_DMB138",
+      "product": "INV2",
+      "revenue": 6624475,
+      "orders": 322,
+      "p3": 1746928,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO_DMB138",
+      "product": "MQT",
+      "revenue": 2792565,
+      "orders": 220,
+      "p3": 417527,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO_DMB138",
+      "product": "SOY",
+      "revenue": 2144562,
+      "orders": 138,
+      "p3": 115092,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO_DMB138",
+      "product": "NICS",
+      "revenue": 1789297,
+      "orders": 115,
+      "p3": -203596,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO_DMB138",
+      "product": "TRR2",
+      "revenue": 1702544,
+      "orders": 47,
+      "p3": 55574,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト_DMB139",
+      "product": "INV2",
+      "revenue": 1807617,
+      "orders": 87,
+      "p3": 469388,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト_DMB139",
+      "product": "MQT",
+      "revenue": 979555,
+      "orders": 77,
+      "p3": 197355,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト_DMB139",
+      "product": "SOY",
+      "revenue": 908972,
+      "orders": 57,
+      "p3": 199936,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト_DMB139",
+      "product": "TRR2",
+      "revenue": 829200,
+      "orders": 26,
+      "p3": 232433,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト_DMB139",
+      "product": "NICS",
+      "revenue": 552152,
+      "orders": 33,
+      "p3": -42271,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO_DMC184",
+      "product": "TRR2",
+      "revenue": 43297837,
+      "orders": 1268,
+      "p3": 12089457,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO_DMC184",
+      "product": "TRAF",
+      "revenue": 31314209,
+      "orders": 927,
+      "p3": 3513748,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO_DMC184",
+      "product": "TRPA",
+      "revenue": 716314,
+      "orders": 18,
+      "p3": 465595,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO_DMC184",
+      "product": "TRPM",
+      "revenue": 110840,
+      "orders": 3,
+      "p3": 44413,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO_DMC184",
+      "product": "TRPR3",
+      "revenue": 84209,
+      "orders": 2,
+      "p3": 34692,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト_DMC185",
+      "product": "TRR2",
+      "revenue": 1588555,
+      "orders": 50,
+      "p3": 451409,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト_DMC185",
+      "product": "TRAF",
+      "revenue": 1001933,
+      "orders": 33,
+      "p3": 44451,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト_DMC185",
+      "product": "TRPM",
+      "revenue": 39707,
+      "orders": 1,
+      "p3": 13257,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト_DMC185",
+      "product": "TRPA",
+      "revenue": 28380,
+      "orders": 1,
+      "p3": 18146,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "RAH買い替え_発送DM_RO_DMF161",
+      "product": "RASA",
+      "revenue": 24491321,
+      "orders": 1756,
+      "p3": 7119830,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH買い替え_発送DM_RO_DMF161",
+      "product": "RAH",
+      "revenue": 14091820,
+      "orders": 1028,
+      "p3": 2627876,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH買い替え_発送DM_RO_DMF161",
+      "product": "RAHK",
+      "revenue": 107927,
+      "orders": 5,
+      "p3": 71481,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH買い替え_発送DM_テスト_DMF162",
+      "product": "RASA",
+      "revenue": 2057555,
+      "orders": 148,
+      "p3": 400234,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH買い替え_発送DM_テスト_DMF162",
+      "product": "RAH",
+      "revenue": 2032118,
+      "orders": 148,
+      "p3": 613225,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH買い替え_発送DM_テスト_DMF162",
+      "product": "RAHK",
+      "revenue": 47909,
+      "orders": 2,
+      "p3": 32897,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "TRS下取WOW_発送DM_RO_DMC186",
+      "product": "TRSP",
+      "revenue": 3763265,
+      "orders": 183,
+      "p3": 280464,
+      "category": "TRS下取WOW"
+    },
+    {
+      "promo": "TRS下取WOW_発送DM_RO_DMC186",
+      "product": "TRAF",
+      "revenue": 3459088,
+      "orders": 107,
+      "p3": 341529,
+      "category": "TRS下取WOW"
+    },
+    {
+      "promo": "TRS下取WOW_発送DM_RO_DMC186",
+      "product": "TRCS",
+      "revenue": 242904,
+      "orders": 9,
+      "p3": 153568,
+      "category": "TRS下取WOW"
+    },
+    {
+      "promo": "TRSキャンペーン_発送DM_テスト①_DMF164",
+      "product": "TRSP",
+      "revenue": 531075,
+      "orders": 26,
+      "p3": -209839,
+      "category": "TRSキャンペーン"
+    },
+    {
+      "promo": "TRSキャンペーン_発送DM_テスト①_DMF164",
+      "product": "TRAFS",
+      "revenue": 520948,
+      "orders": 23,
+      "p3": -227000,
+      "category": "TRSキャンペーン"
+    },
+    {
+      "promo": "TRSキャンペーン_発送DM_テスト①_DMF164",
+      "product": "TRGR",
+      "revenue": 286057,
+      "orders": 23,
+      "p3": -204850,
+      "category": "TRSキャンペーン"
+    },
+    {
+      "promo": "TRSキャンペーン_発送DM_テスト①_DMF164",
+      "product": "TRR2",
+      "revenue": 210598,
+      "orders": 6,
+      "p3": 141586,
+      "category": "TRSキャンペーン"
+    },
+    {
+      "promo": "TRSキャンペーン_発送DM_テスト①_DMF164",
+      "product": "TRAF",
+      "revenue": 78924,
+      "orders": 2,
+      "p3": 58140,
+      "category": "TRSキャンペーン"
+    },
+    {
+      "promo": "TRSキャンペーン_発送DM_テスト②_DMF165",
+      "product": "TRAFS",
+      "revenue": 824505,
+      "orders": 31,
+      "p3": -228841,
+      "category": "TRSキャンペーン"
+    },
+    {
+      "promo": "TRSキャンペーン_発送DM_テスト②_DMF165",
+      "product": "TRGR",
+      "revenue": 753208,
+      "orders": 55,
+      "p3": -358835,
+      "category": "TRSキャンペーン"
+    },
+    {
+      "promo": "TRSキャンペーン_発送DM_テスト②_DMF165",
+      "product": "TRR2",
+      "revenue": 32898,
+      "orders": 1,
+      "p3": 22646,
+      "category": "TRSキャンペーン"
+    },
+    {
+      "promo": "TR7買い替え_発送DM_テスト_DMF166",
+      "product": "TRGR",
+      "revenue": 650804,
+      "orders": 52,
+      "p3": -491103,
+      "category": "TR7買い替え"
+    },
+    {
+      "promo": "TR7買い替え_発送DM_テスト_DMF166",
+      "product": "TR7A",
+      "revenue": 582478,
+      "orders": 31,
+      "p3": -47523,
+      "category": "TR7買い替え"
+    },
+    {
+      "promo": "TR7買い替え_発送DM_テスト_DMF166",
+      "product": "TR7N",
+      "revenue": 160145,
+      "orders": 10,
+      "p3": -294312,
+      "category": "TR7買い替え"
+    },
+    {
+      "promo": "TR7買い替え_発送DM_テスト_DMF166",
+      "product": "TR7C",
+      "revenue": 4800,
+      "orders": 1,
+      "p3": 3188,
+      "category": "TR7買い替え"
+    },
+    {
+      "promo": "シニア女性向け_発送DM_テスト_DMF167",
+      "product": "MQT",
+      "revenue": 225030,
+      "orders": 21,
+      "p3": -19329,
+      "category": "シニア訴求"
+    },
+    {
+      "promo": "シニア女性向け_発送DM_テスト_DMF167",
+      "product": "RASA",
+      "revenue": 84473,
+      "orders": 6,
+      "p3": -68937,
+      "category": "シニア訴求"
+    },
+    {
+      "promo": "シニア女性向け_発送DM_テスト_DMF167",
+      "product": "INV2",
+      "revenue": 75654,
+      "orders": 4,
+      "p3": -200909,
+      "category": "シニア訴求"
+    },
+    {
+      "promo": "シニア女性向け_発送DM_テスト_DMF167",
+      "product": "SOY",
+      "revenue": 75187,
+      "orders": 4,
+      "p3": -77644,
+      "category": "シニア訴求"
+    },
+    {
+      "promo": "INV追加購入_発送DM_テスト_DMF168",
+      "product": "INV2",
+      "revenue": 825348,
+      "orders": 40,
+      "p3": 20731,
+      "category": "その他"
+    },
+    {
+      "promo": "INV追加購入_発送DM_テスト_DMF168",
+      "product": "SOY",
+      "revenue": 295109,
+      "orders": 16,
+      "p3": -119404,
+      "category": "その他"
+    },
+    {
+      "promo": "INV追加購入_発送DM_テスト_DMF168",
+      "product": "MQT",
+      "revenue": 218573,
+      "orders": 19,
+      "p3": -171090,
+      "category": "その他"
+    },
+    {
+      "promo": "INV追加購入_発送DM_テスト_DMF168",
+      "product": "RAH",
+      "revenue": 197844,
+      "orders": 18,
+      "p3": -24049,
+      "category": "その他"
+    },
+    {
+      "promo": "INV追加購入_発送DM_テスト_DMF168",
+      "product": "TRR2",
+      "revenue": 101227,
+      "orders": 3,
+      "p3": -223351,
+      "category": "その他"
+    },
+    {
+      "promo": "2508_SOY大豆追加購入_発送DM_テスト_DME34",
+      "product": "SOY",
+      "revenue": 192316,
+      "orders": 24,
+      "p3": 91588,
+      "category": "その他"
+    }
+  ],
+  "10": [
+    {
+      "promo": "お誕生日_発送DM_RO_DMB140",
+      "product": "INV2",
+      "revenue": 8267303,
+      "orders": 402,
+      "p3": 1443772,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO_DMB140",
+      "product": "RAH",
+      "revenue": 4844175,
+      "orders": 384,
+      "p3": 833356,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO_DMB140",
+      "product": "SOY",
+      "revenue": 4048269,
+      "orders": 258,
+      "p3": 260637,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO_DMB140",
+      "product": "MQT",
+      "revenue": 3447604,
+      "orders": 280,
+      "p3": -210065,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO_DMB140",
+      "product": "TRR3",
+      "revenue": 2786499,
+      "orders": 86,
+      "p3": -285621,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO_DMB140",
+      "product": "その他",
+      "revenue": 0,
+      "orders": 0,
+      "p3": 0,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト_DMB141",
+      "product": "RAH",
+      "revenue": 1287362,
+      "orders": 94,
+      "p3": 392471,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト_DMB141",
+      "product": "INV2",
+      "revenue": 1153770,
+      "orders": 60,
+      "p3": 112032,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト_DMB141",
+      "product": "SOY",
+      "revenue": 849518,
+      "orders": 50,
+      "p3": 130050,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト_DMB141",
+      "product": "TRR3",
+      "revenue": 837658,
+      "orders": 25,
+      "p3": 172617,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト_DMB141",
+      "product": "MQT",
+      "revenue": 678417,
+      "orders": 58,
+      "p3": -2501,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO_DMC187",
+      "product": "TRR3",
+      "revenue": 27703097,
+      "orders": 804,
+      "p3": 4887321,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO_DMC187",
+      "product": "TRAF",
+      "revenue": 21651333,
+      "orders": 643,
+      "p3": 2075489,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO_DMC187",
+      "product": "TRPA",
+      "revenue": 575129,
+      "orders": 12,
+      "p3": 364285,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO_DMC187",
+      "product": "TRPM",
+      "revenue": 259814,
+      "orders": 6,
+      "p3": 81118,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO_DMC187",
+      "product": "TRR2",
+      "revenue": 110824,
+      "orders": 3,
+      "p3": 72774,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト_DMC188",
+      "product": "TRR3",
+      "revenue": 1850013,
+      "orders": 52,
+      "p3": 555349,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト_DMC188",
+      "product": "TRAF",
+      "revenue": 766269,
+      "orders": 24,
+      "p3": -79153,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト_DMC188",
+      "product": "TRR2",
+      "revenue": 70578,
+      "orders": 2,
+      "p3": 48845,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_RO_DMF169",
+      "product": "RAHK",
+      "revenue": 9945423,
+      "orders": 409,
+      "p3": 3812267,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_RO_DMF169",
+      "product": "RASA",
+      "revenue": 4797965,
+      "orders": 342,
+      "p3": -189060,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_RO_DMF169",
+      "product": "RAH",
+      "revenue": 648580,
+      "orders": 52,
+      "p3": 429841,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_テスト①_DMF170",
+      "product": "RAHK",
+      "revenue": 2305398,
+      "orders": 92,
+      "p3": 1050720,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_テスト①_DMF170",
+      "product": "RASA",
+      "revenue": 739051,
+      "orders": 50,
+      "p3": 139758,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_テスト①_DMF170",
+      "product": "RATV",
+      "revenue": 140771,
+      "orders": 9,
+      "p3": -267399,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_テスト①_DMF170",
+      "product": "RAH",
+      "revenue": 96113,
+      "orders": 8,
+      "p3": 62858,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_テスト①_DMF170",
+      "product": "TRR2",
+      "revenue": 34926,
+      "orders": 1,
+      "p3": 23547,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_テスト②_DMF171",
+      "product": "RAHK",
+      "revenue": 1426772,
+      "orders": 62,
+      "p3": 526034,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_テスト②_DMF171",
+      "product": "RASA",
+      "revenue": 901741,
+      "orders": 66,
+      "p3": 70864,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_テスト②_DMF171",
+      "product": "RAH",
+      "revenue": 157460,
+      "orders": 12,
+      "p3": 103512,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_テスト②_DMF171",
+      "product": "RATV",
+      "revenue": 137846,
+      "orders": 9,
+      "p3": -182441,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_テスト②_DMF171",
+      "product": "RAH6",
+      "revenue": 17473,
+      "orders": 1,
+      "p3": 12016,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "TRS特別セール_発送DM_テスト_DMF172",
+      "product": "TRSF",
+      "revenue": 72060,
+      "orders": 9,
+      "p3": -339266,
+      "category": "その他"
+    },
+    {
+      "promo": "シニア向けランキング_発送DM_テスト①_DMF173",
+      "product": "MQT",
+      "revenue": 276074,
+      "orders": 23,
+      "p3": -89634,
+      "category": "シニア訴求"
+    },
+    {
+      "promo": "シニア向けランキング_発送DM_テスト①_DMF173",
+      "product": "SOY",
+      "revenue": 251672,
+      "orders": 17,
+      "p3": -98257,
+      "category": "シニア訴求"
+    },
+    {
+      "promo": "シニア向けランキング_発送DM_テスト①_DMF173",
+      "product": "INV2",
+      "revenue": 162532,
+      "orders": 9,
+      "p3": -170034,
+      "category": "シニア訴求"
+    },
+    {
+      "promo": "シニア向けランキング_発送DM_テスト①_DMF173",
+      "product": "RATV",
+      "revenue": 57129,
+      "orders": 3,
+      "p3": -210267,
+      "category": "シニア訴求"
+    },
+    {
+      "promo": "シニア向けランキング_発送DM_テスト①_DMF173",
+      "product": "TRR2",
+      "revenue": 46916,
+      "orders": 1,
+      "p3": 31424,
+      "category": "シニア訴求"
+    },
+    {
+      "promo": "シニア向けランキング_発送DM_テスト②_DMF174",
+      "product": "MQT",
+      "revenue": 419297,
+      "orders": 31,
+      "p3": -6751,
+      "category": "シニア訴求"
+    },
+    {
+      "promo": "シニア向けランキング_発送DM_テスト②_DMF174",
+      "product": "INV2",
+      "revenue": 197506,
+      "orders": 10,
+      "p3": -145023,
+      "category": "シニア訴求"
+    },
+    {
+      "promo": "シニア向けランキング_発送DM_テスト②_DMF174",
+      "product": "SOY",
+      "revenue": 154739,
+      "orders": 11,
+      "p3": -153947,
+      "category": "シニア訴求"
+    },
+    {
+      "promo": "シニア向けランキング_発送DM_テスト②_DMF174",
+      "product": "TRGR",
+      "revenue": 75560,
+      "orders": 5,
+      "p3": -206454,
+      "category": "シニア訴求"
+    },
+    {
+      "promo": "SOY大豆追加購入_発送DM_テスト_DME34",
+      "product": "SOY",
+      "revenue": 279927,
+      "orders": 32,
+      "p3": 138682,
+      "category": "その他"
+    },
+    {
+      "promo": "SOY大豆追加購入_発送DM_テスト_DME34",
+      "product": "RAH",
+      "revenue": 30107,
+      "orders": 2,
+      "p3": 20746,
+      "category": "その他"
+    }
+  ],
+  "11": [
+    {
+      "promo": "お誕生日_発送DM_RO①_DMB142",
+      "product": "INV2",
+      "revenue": 4442393,
+      "orders": 226,
+      "p3": 634065,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO①_DMB142",
+      "product": "RAH",
+      "revenue": 2662475,
+      "orders": 207,
+      "p3": 449688,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO①_DMB142",
+      "product": "SOY",
+      "revenue": 2101533,
+      "orders": 130,
+      "p3": 48614,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO①_DMB142",
+      "product": "MQT",
+      "revenue": 1673584,
+      "orders": 132,
+      "p3": -278861,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO①_DMB142",
+      "product": "TRR3",
+      "revenue": 1425098,
+      "orders": 44,
+      "p3": -251293,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO②_DMB143",
+      "product": "INV2",
+      "revenue": 3378318,
+      "orders": 166,
+      "p3": 794332,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO②_DMB143",
+      "product": "RAH",
+      "revenue": 1681061,
+      "orders": 129,
+      "p3": 374923,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO②_DMB143",
+      "product": "SOY",
+      "revenue": 1317600,
+      "orders": 81,
+      "p3": 99356,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO②_DMB143",
+      "product": "TRR3",
+      "revenue": 1034775,
+      "orders": 28,
+      "p3": 2140,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO②_DMB143",
+      "product": "MQT",
+      "revenue": 1010845,
+      "orders": 86,
+      "p3": -120001,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト_DMB144",
+      "product": "INV2",
+      "revenue": 1238662,
+      "orders": 62,
+      "p3": 188075,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト_DMB144",
+      "product": "RAH",
+      "revenue": 945857,
+      "orders": 76,
+      "p3": 239378,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト_DMB144",
+      "product": "SOY",
+      "revenue": 726721,
+      "orders": 49,
+      "p3": 92814,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト_DMB144",
+      "product": "TRR3",
+      "revenue": 522992,
+      "orders": 14,
+      "p3": 19857,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト_DMB144",
+      "product": "MQT",
+      "revenue": 505033,
+      "orders": 45,
+      "p3": -58234,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO①_DMC189",
+      "product": "TRR3",
+      "revenue": 14150848,
+      "orders": 406,
+      "p3": 3476079,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO①_DMC189",
+      "product": "TRAF",
+      "revenue": 10750011,
+      "orders": 321,
+      "p3": 1502134,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO①_DMC189",
+      "product": "TRPA",
+      "revenue": 244989,
+      "orders": 6,
+      "p3": 153335,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO①_DMC189",
+      "product": "TRPM",
+      "revenue": 72533,
+      "orders": 2,
+      "p3": 27131,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO①_DMC189",
+      "product": "TRR2",
+      "revenue": 53385,
+      "orders": 2,
+      "p3": 37248,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO②_DMC190",
+      "product": "TRR3",
+      "revenue": 18369712,
+      "orders": 523,
+      "p3": 5091643,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO②_DMC190",
+      "product": "TRAF",
+      "revenue": 13802748,
+      "orders": 400,
+      "p3": 2467041,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO②_DMC190",
+      "product": "TRPA",
+      "revenue": 258916,
+      "orders": 6,
+      "p3": 166706,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO②_DMC190",
+      "product": "TRPM",
+      "revenue": 75533,
+      "orders": 2,
+      "p3": 27495,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO②_DMC190",
+      "product": "TRHP",
+      "revenue": 72998,
+      "orders": 2,
+      "p3": 49204,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト①_DMC191",
+      "product": "TRAF",
+      "revenue": 1769713,
+      "orders": 49,
+      "p3": 417931,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト①_DMC191",
+      "product": "TRR3",
+      "revenue": 1701014,
+      "orders": 52,
+      "p3": 333194,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト①_DMC191",
+      "product": "TRSK",
+      "revenue": 4391,
+      "orders": 1,
+      "p3": 1665,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト②_DMC192",
+      "product": "TRR3",
+      "revenue": 1589980,
+      "orders": 47,
+      "p3": 276866,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト②_DMC192",
+      "product": "TRAF",
+      "revenue": 848741,
+      "orders": 24,
+      "p3": 190188,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト②_DMC192",
+      "product": "TRGR",
+      "revenue": 48280,
+      "orders": 4,
+      "p3": -366196,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト②_DMC192",
+      "product": "TRPM",
+      "revenue": 34707,
+      "orders": 1,
+      "p3": 13014,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト②_DMC192",
+      "product": "TRPA",
+      "revenue": 33407,
+      "orders": 1,
+      "p3": 22366,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取WOW_発送DM_RO_DMC193",
+      "product": "TRSP",
+      "revenue": 3981500,
+      "orders": 183,
+      "p3": 314104,
+      "category": "TRS下取WOW"
+    },
+    {
+      "promo": "TRS下取WOW_発送DM_RO_DMC193",
+      "product": "TRAF",
+      "revenue": 2307071,
+      "orders": 70,
+      "p3": -515865,
+      "category": "TRS下取WOW"
+    },
+    {
+      "promo": "TRS下取WOW_発送DM_RO_DMC193",
+      "product": "TRCS",
+      "revenue": 184718,
+      "orders": 7,
+      "p3": 118818,
+      "category": "TRS下取WOW"
+    },
+    {
+      "promo": "TRS下取WOW_発送DM_RO_DMC193",
+      "product": "TRR3",
+      "revenue": 27007,
+      "orders": 1,
+      "p3": 19392,
+      "category": "TRS下取WOW"
+    },
+    {
+      "promo": "RAH買い替え_発送DM_RO①_DMF175",
+      "product": "RASA",
+      "revenue": 9343716,
+      "orders": 671,
+      "p3": 2569289,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH買い替え_発送DM_RO①_DMF175",
+      "product": "RAH",
+      "revenue": 5525488,
+      "orders": 400,
+      "p3": 959533,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH買い替え_発送DM_RO①_DMF175",
+      "product": "RAHK",
+      "revenue": 65373,
+      "orders": 3,
+      "p3": 47293,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH買い替え_発送DM_RO②_DMF176",
+      "product": "RASA",
+      "revenue": 13486315,
+      "orders": 973,
+      "p3": 3564819,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH買い替え_発送DM_RO②_DMF176",
+      "product": "RAH",
+      "revenue": 8791784,
+      "orders": 633,
+      "p3": 1795034,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH買い替え_発送DM_RO②_DMF176",
+      "product": "RAHK",
+      "revenue": 140964,
+      "orders": 5,
+      "p3": 99764,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH買い替え_発送DM_テスト①_DMF177",
+      "product": "RAHK",
+      "revenue": 1165172,
+      "orders": 44,
+      "p3": 456990,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH買い替え_発送DM_テスト①_DMF177",
+      "product": "RASA",
+      "revenue": 1061641,
+      "orders": 73,
+      "p3": 288027,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH買い替え_発送DM_テスト①_DMF177",
+      "product": "RAH",
+      "revenue": 610459,
+      "orders": 46,
+      "p3": 81880,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH買い替え_発送DM_テスト①_DMF177",
+      "product": "RATV",
+      "revenue": 26190,
+      "orders": 1,
+      "p3": -314300,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH買い替え_発送DM_テスト②_DMF178",
+      "product": "RAH",
+      "revenue": 952834,
+      "orders": 70,
+      "p3": 318245,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH買い替え_発送DM_テスト②_DMF178",
+      "product": "RASA",
+      "revenue": 856595,
+      "orders": 57,
+      "p3": 169023,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH買い替え_発送DM_テスト②_DMF178",
+      "product": "RATV",
+      "revenue": 157235,
+      "orders": 11,
+      "p3": -570358,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH未購入者_発送DM_テスト_DMF179",
+      "product": "RAHK",
+      "revenue": 215673,
+      "orders": 8,
+      "p3": 145834,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAH未購入者_発送DM_テスト_DMF179",
+      "product": "RAH",
+      "revenue": 194883,
+      "orders": 14,
+      "p3": -63139,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAH未購入者_発送DM_テスト_DMF179",
+      "product": "RASA",
+      "revenue": 130373,
+      "orders": 9,
+      "p3": -122143,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAH未購入者_発送DM_テスト_DMF179",
+      "product": "RATV",
+      "revenue": 121746,
+      "orders": 9,
+      "p3": -560640,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "INV大掃除_発送DM_テスト_DMF180",
+      "product": "INV2",
+      "revenue": 1215743,
+      "orders": 56,
+      "p3": -317127,
+      "category": "その他"
+    },
+    {
+      "promo": "INV大掃除_発送DM_テスト_DMF180",
+      "product": "SOY",
+      "revenue": 374488,
+      "orders": 24,
+      "p3": -60232,
+      "category": "その他"
+    },
+    {
+      "promo": "INV大掃除_発送DM_テスト_DMF180",
+      "product": "MQT",
+      "revenue": 227534,
+      "orders": 22,
+      "p3": -161878,
+      "category": "その他"
+    },
+    {
+      "promo": "INV大掃除_発送DM_テスト_DMF180",
+      "product": "INVG",
+      "revenue": 105653,
+      "orders": 4,
+      "p3": 47009,
+      "category": "その他"
+    },
+    {
+      "promo": "INV大掃除_発送DM_テスト_DMF180",
+      "product": "TR7A",
+      "revenue": 21027,
+      "orders": 1,
+      "p3": 13832,
+      "category": "その他"
+    },
+    {
+      "promo": "TRS特別セール_発送DM_テスト_DME36",
+      "product": "TRAFS",
+      "revenue": 628770,
+      "orders": 29,
+      "p3": 84944,
+      "category": "その他"
+    },
+    {
+      "promo": "TRS特別セール_発送DM_テスト_DME36",
+      "product": "TRSP",
+      "revenue": 433971,
+      "orders": 21,
+      "p3": -75950,
+      "category": "その他"
+    },
+    {
+      "promo": "TRS特別セール_発送DM_テスト_DME36",
+      "product": "TRGR",
+      "revenue": 242694,
+      "orders": 17,
+      "p3": -244901,
+      "category": "その他"
+    },
+    {
+      "promo": "TRS特別セール_発送DM_テスト_DME36",
+      "product": "TRND",
+      "revenue": 111060,
+      "orders": 6,
+      "p3": -232939,
+      "category": "その他"
+    },
+    {
+      "promo": "TRS特別セール_発送DM_テスト_DME36",
+      "product": "TRSF",
+      "revenue": 55480,
+      "orders": 5,
+      "p3": -185028,
+      "category": "その他"
+    },
+    {
+      "promo": "SOY大豆追加購入_発送DM_RO_DME38",
+      "product": "SOY",
+      "revenue": 5057330,
+      "orders": 574,
+      "p3": 231564,
+      "category": "その他"
+    },
+    {
+      "promo": "#N/A",
+      "product": "SOY",
+      "revenue": 90220,
+      "orders": 10,
+      "p3": 43156,
+      "category": "その他"
+    }
+  ],
+  "12": [
+    {
+      "promo": "お誕生日_発送DM_RO①_DMB146",
+      "product": "INV2",
+      "revenue": 2959292,
+      "orders": 142,
+      "p3": 338144,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO①_DMB146",
+      "product": "RAH",
+      "revenue": 1592039,
+      "orders": 124,
+      "p3": 128774,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO①_DMB146",
+      "product": "SOY",
+      "revenue": 1387545,
+      "orders": 92,
+      "p3": -29141,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO①_DMB146",
+      "product": "MQT",
+      "revenue": 1314425,
+      "orders": 113,
+      "p3": -144502,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO①_DMB146",
+      "product": "TRR3",
+      "revenue": 544650,
+      "orders": 15,
+      "p3": -421109,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO②_DMB147",
+      "product": "INV2",
+      "revenue": 3851357,
+      "orders": 193,
+      "p3": 261277,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO②_DMB147",
+      "product": "RAH",
+      "revenue": 2528242,
+      "orders": 199,
+      "p3": 273358,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO②_DMB147",
+      "product": "SOY",
+      "revenue": 2172085,
+      "orders": 138,
+      "p3": -763,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO②_DMB147",
+      "product": "MQT",
+      "revenue": 2001856,
+      "orders": 160,
+      "p3": -191454,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO②_DMB147",
+      "product": "TRR3",
+      "revenue": 1182759,
+      "orders": 34,
+      "p3": -399412,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト①_DMB148",
+      "product": "INV2",
+      "revenue": 473717,
+      "orders": 24,
+      "p3": 46660,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト①_DMB148",
+      "product": "RAH",
+      "revenue": 473243,
+      "orders": 36,
+      "p3": 116871,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト①_DMB148",
+      "product": "SOY",
+      "revenue": 411765,
+      "orders": 25,
+      "p3": 62245,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト①_DMB148",
+      "product": "TRR3",
+      "revenue": 349464,
+      "orders": 11,
+      "p3": 36489,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト①_DMB148",
+      "product": "MQT",
+      "revenue": 302008,
+      "orders": 26,
+      "p3": -8807,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト②_DMB149",
+      "product": "INV2",
+      "revenue": 597181,
+      "orders": 28,
+      "p3": 79621,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト②_DMB149",
+      "product": "RAH",
+      "revenue": 507087,
+      "orders": 38,
+      "p3": 135103,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト②_DMB149",
+      "product": "ORS",
+      "revenue": 455678,
+      "orders": 30,
+      "p3": 108009,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト②_DMB149",
+      "product": "SOY",
+      "revenue": 316969,
+      "orders": 20,
+      "p3": 20466,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト②_DMB149",
+      "product": "TRR3",
+      "revenue": 238244,
+      "orders": 8,
+      "p3": -5684,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO①_DMC194",
+      "product": "TRR3",
+      "revenue": 7466032,
+      "orders": 228,
+      "p3": 691909,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO①_DMC194",
+      "product": "TRAF",
+      "revenue": 6185425,
+      "orders": 191,
+      "p3": -105558,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO①_DMC194",
+      "product": "TRR2",
+      "revenue": 111540,
+      "orders": 3,
+      "p3": 69699,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO①_DMC194",
+      "product": "TRAF3",
+      "revenue": 40727,
+      "orders": 1,
+      "p3": 11437,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO①_DMC194",
+      "product": "TRPA",
+      "revenue": 33107,
+      "orders": 1,
+      "p3": 21768,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO②_DMC195",
+      "product": "TRR3",
+      "revenue": 10850112,
+      "orders": 294,
+      "p3": 2247135,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO②_DMC195",
+      "product": "TRAF",
+      "revenue": 9809009,
+      "orders": 275,
+      "p3": 1610809,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO②_DMC195",
+      "product": "TRR2",
+      "revenue": 22280,
+      "orders": 1,
+      "p3": 16482,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO②_DMC195",
+      "product": "TRSK",
+      "revenue": 19436,
+      "orders": 1,
+      "p3": 10651,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO②_DMC195",
+      "product": "TR7A",
+      "revenue": 15573,
+      "orders": 1,
+      "p3": 8551,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト①_DMC196",
+      "product": "TRAF",
+      "revenue": 1260092,
+      "orders": 36,
+      "p3": -12027,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト①_DMC196",
+      "product": "TRR3",
+      "revenue": 1122361,
+      "orders": 33,
+      "p3": -111571,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト②_DMC197",
+      "product": "TRR3",
+      "revenue": 1438796,
+      "orders": 46,
+      "p3": 110431,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト②_DMC197",
+      "product": "TRAF",
+      "revenue": 1115429,
+      "orders": 31,
+      "p3": -101102,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト③_DMC198",
+      "product": "TRR3",
+      "revenue": 2196178,
+      "orders": 65,
+      "p3": 615122,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト③_DMC198",
+      "product": "TRAF",
+      "revenue": 1738125,
+      "orders": 54,
+      "p3": 336735,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト③_DMC198",
+      "product": "TRPA",
+      "revenue": 57071,
+      "orders": 1,
+      "p3": 36291,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト③_DMC198",
+      "product": "TRPM",
+      "revenue": 34707,
+      "orders": 1,
+      "p3": 14150,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_RO_DMF181",
+      "product": "RAHK",
+      "revenue": 19147380,
+      "orders": 779,
+      "p3": 7776541,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_RO_DMF181",
+      "product": "RASA",
+      "revenue": 7666447,
+      "orders": 536,
+      "p3": 1890511,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_RO_DMF181",
+      "product": "RATV",
+      "revenue": 1026453,
+      "orders": 70,
+      "p3": -1898184,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_RO_DMF181",
+      "product": "RAH",
+      "revenue": 692778,
+      "orders": 53,
+      "p3": 469310,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_RO_DMF181",
+      "product": "MQT",
+      "revenue": 13817,
+      "orders": 1,
+      "p3": 7963,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "新商品紹介DM_発送DM_テスト①_DMF182",
+      "product": "INV2",
+      "revenue": 648455,
+      "orders": 33,
+      "p3": -23582,
+      "category": "その他"
+    },
+    {
+      "promo": "新商品紹介DM_発送DM_テスト①_DMF182",
+      "product": "ORS",
+      "revenue": 351693,
+      "orders": 24,
+      "p3": -142520,
+      "category": "その他"
+    },
+    {
+      "promo": "新商品紹介DM_発送DM_テスト①_DMF182",
+      "product": "TRGR",
+      "revenue": 154700,
+      "orders": 15,
+      "p3": -235072,
+      "category": "その他"
+    },
+    {
+      "promo": "新商品紹介DM_発送DM_テスト①_DMF182",
+      "product": "TRR3",
+      "revenue": 100557,
+      "orders": 3,
+      "p3": -231460,
+      "category": "その他"
+    },
+    {
+      "promo": "新商品紹介DM_発送DM_テスト①_DMF182",
+      "product": "RATV",
+      "revenue": 37770,
+      "orders": 3,
+      "p3": -275553,
+      "category": "その他"
+    },
+    {
+      "promo": "新商品紹介DM_発送DM_テスト②_DMF183",
+      "product": "INV2",
+      "revenue": 646856,
+      "orders": 33,
+      "p3": -104828,
+      "category": "その他"
+    },
+    {
+      "promo": "新商品紹介DM_発送DM_テスト②_DMF183",
+      "product": "ORS",
+      "revenue": 275999,
+      "orders": 22,
+      "p3": -222842,
+      "category": "その他"
+    },
+    {
+      "promo": "新商品紹介DM_発送DM_テスト②_DMF183",
+      "product": "TRR3",
+      "revenue": 228973,
+      "orders": 9,
+      "p3": -227841,
+      "category": "その他"
+    },
+    {
+      "promo": "新商品紹介DM_発送DM_テスト②_DMF183",
+      "product": "RATV",
+      "revenue": 115056,
+      "orders": 8,
+      "p3": -322230,
+      "category": "その他"
+    },
+    {
+      "promo": "INV大掃除DM_発送DM_RO_DMF184",
+      "product": "INV2",
+      "revenue": 4221490,
+      "orders": 199,
+      "p3": -1783239,
+      "category": "その他"
+    },
+    {
+      "promo": "INV大掃除DM_発送DM_RO_DMF184",
+      "product": "SOY",
+      "revenue": 1652852,
+      "orders": 102,
+      "p3": -215077,
+      "category": "その他"
+    },
+    {
+      "promo": "INV大掃除DM_発送DM_RO_DMF184",
+      "product": "INVG",
+      "revenue": 1048196,
+      "orders": 39,
+      "p3": 441925,
+      "category": "その他"
+    },
+    {
+      "promo": "INV大掃除DM_発送DM_RO_DMF184",
+      "product": "MQT",
+      "revenue": 776738,
+      "orders": 67,
+      "p3": -746918,
+      "category": "その他"
+    },
+    {
+      "promo": "INV大掃除DM_発送DM_RO_DMF184",
+      "product": "TRAF3",
+      "revenue": 32518,
+      "orders": 1,
+      "p3": 11074,
+      "category": "その他"
+    },
+    {
+      "promo": "2511_SOY大豆追加購入_発送DM_RO_DME38",
+      "product": "SOY",
+      "revenue": 1465288,
+      "orders": 167,
+      "p3": 705434,
+      "category": "その他"
+    },
+    {
+      "promo": "2511_SOY大豆追加購入_発送DM_RO_DME38",
+      "product": "RAH",
+      "revenue": 27733,
+      "orders": 2,
+      "p3": 18490,
+      "category": "その他"
+    }
+  ],
+  "1": [
+    {
+      "promo": "お誕生日_発送DM_RO①_DMB150　既存ロジック",
+      "product": "RAH",
+      "revenue": 5186677,
+      "orders": 396,
+      "p3": 1395044,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO①_DMB150　既存ロジック",
+      "product": "INV2",
+      "revenue": 3541514,
+      "orders": 169,
+      "p3": 233392,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO①_DMB150　既存ロジック",
+      "product": "ORS",
+      "revenue": 2684101,
+      "orders": 196,
+      "p3": 211763,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO①_DMB150　既存ロジック",
+      "product": "SOY",
+      "revenue": 2340022,
+      "orders": 152,
+      "p3": -48104,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO①_DMB150　既存ロジック",
+      "product": "TRR2",
+      "revenue": 1523598,
+      "orders": 46,
+      "p3": -336661,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO②_DMB151　AIスコアリング",
+      "product": "RAH",
+      "revenue": 6788801,
+      "orders": 525,
+      "p3": 1904161,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO②_DMB151　AIスコアリング",
+      "product": "INV2",
+      "revenue": 4085879,
+      "orders": 199,
+      "p3": 135272,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO②_DMB151　AIスコアリング",
+      "product": "SOY",
+      "revenue": 3475358,
+      "orders": 218,
+      "p3": 238044,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO②_DMB151　AIスコアリング",
+      "product": "ORS",
+      "revenue": 2542630,
+      "orders": 191,
+      "p3": -206308,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO②_DMB151　AIスコアリング",
+      "product": "TRR2",
+      "revenue": 1650026,
+      "orders": 52,
+      "p3": -567384,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト_DMB153",
+      "product": "RAH",
+      "revenue": 678409,
+      "orders": 51,
+      "p3": 200472,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト_DMB153",
+      "product": "INV2",
+      "revenue": 315562,
+      "orders": 16,
+      "p3": -18294,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト_DMB153",
+      "product": "TRR2",
+      "revenue": 310991,
+      "orders": 10,
+      "p3": 45351,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト_DMB153",
+      "product": "MQT",
+      "revenue": 300912,
+      "orders": 25,
+      "p3": -8828,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト_DMB153",
+      "product": "SOY",
+      "revenue": 280134,
+      "orders": 18,
+      "p3": -6136,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト_DMB153",
+      "product": "TRR3",
+      "revenue": 11989629,
+      "orders": 356,
+      "p3": 1890136,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト_DMB153",
+      "product": "TRAF",
+      "revenue": 8700992,
+      "orders": 276,
+      "p3": -208713,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト_DMB153",
+      "product": "TRPM",
+      "revenue": 65784,
+      "orders": 1,
+      "p3": 33933,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト_DMB153",
+      "product": "TRPA",
+      "revenue": 28390,
+      "orders": 1,
+      "p3": 17984,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO②_DMC200",
+      "product": "TRR3",
+      "revenue": 15051705,
+      "orders": 466,
+      "p3": 2146133,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO②_DMC200",
+      "product": "TRAF",
+      "revenue": 13226373,
+      "orders": 414,
+      "p3": 1029167,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO②_DMC200",
+      "product": "TRPA",
+      "revenue": 128875,
+      "orders": 4,
+      "p3": 80582,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO②_DMC200",
+      "product": "TRSZ",
+      "revenue": 9173,
+      "orders": 1,
+      "p3": 6850,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO②_DMC200",
+      "product": "ACT",
+      "revenue": 3900,
+      "orders": 1,
+      "p3": 2098,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト①_DMC201",
+      "product": "TRR3",
+      "revenue": 1600690,
+      "orders": 48,
+      "p3": 277896,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト①_DMC201",
+      "product": "TRAF",
+      "revenue": 1204971,
+      "orders": 34,
+      "p3": 18906,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト①_DMC201",
+      "product": "TRPA",
+      "revenue": 40398,
+      "orders": 1,
+      "p3": 23253,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト①_DMC201",
+      "product": "TRR2",
+      "revenue": 38571,
+      "orders": 1,
+      "p3": 22761,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト②_DMC202",
+      "product": "TRR3",
+      "revenue": 1604683,
+      "orders": 50,
+      "p3": 261959,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト②_DMC202",
+      "product": "TRAF",
+      "revenue": 1282675,
+      "orders": 40,
+      "p3": 45248,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト②_DMC202",
+      "product": "TRPA",
+      "revenue": 65162,
+      "orders": 1,
+      "p3": 41209,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_メール便_発送DM_RO_DMC203",
+      "product": "TRR3",
+      "revenue": 8690192,
+      "orders": 261,
+      "p3": 2192554,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_メール便_発送DM_RO_DMC203",
+      "product": "TRAF",
+      "revenue": 6018799,
+      "orders": 197,
+      "p3": 468020,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_メール便_発送DM_RO_DMC203",
+      "product": "TRR2",
+      "revenue": 58462,
+      "orders": 1,
+      "p3": 41649,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_メール便_発送DM_RO_DMC203",
+      "product": "TRPA",
+      "revenue": 56760,
+      "orders": 2,
+      "p3": 36847,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_メール便_発送DM_RO_DMC203",
+      "product": "TRHT",
+      "revenue": 24463,
+      "orders": 1,
+      "p3": 21705,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取WOW_発送DM_テスト_DMC205",
+      "product": "TRAFS",
+      "revenue": 1674973,
+      "orders": 79,
+      "p3": 408149,
+      "category": "TRS下取WOW"
+    },
+    {
+      "promo": "TRS下取WOW_発送DM_テスト_DMC205",
+      "product": "TRSP",
+      "revenue": 898646,
+      "orders": 41,
+      "p3": 11964,
+      "category": "TRS下取WOW"
+    },
+    {
+      "promo": "TRS下取WOW_発送DM_テスト_DMC205",
+      "product": "TRCS",
+      "revenue": 54840,
+      "orders": 3,
+      "p3": 36255,
+      "category": "TRS下取WOW"
+    },
+    {
+      "promo": "TRS下取WOW_発送DM_テスト_DMC205",
+      "product": "RASA",
+      "revenue": 9852281,
+      "orders": 707,
+      "p3": 2192645,
+      "category": "TRS下取WOW"
+    },
+    {
+      "promo": "TRS下取WOW_発送DM_テスト_DMC205",
+      "product": "RAH",
+      "revenue": 7061754,
+      "orders": 509,
+      "p3": 1430907,
+      "category": "TRS下取WOW"
+    },
+    {
+      "promo": "TRS下取WOW_発送DM_テスト_DMC205",
+      "product": "RAHK",
+      "revenue": 66754,
+      "orders": 2,
+      "p3": 46127,
+      "category": "TRS下取WOW"
+    },
+    {
+      "promo": "RAH買い替え_発送DM_RO②_DMF187",
+      "product": "RASA",
+      "revenue": 12708180,
+      "orders": 913,
+      "p3": 2826184,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH買い替え_発送DM_RO②_DMF187",
+      "product": "RAH",
+      "revenue": 9511929,
+      "orders": 671,
+      "p3": 2149337,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH買い替え_発送DM_RO②_DMF187",
+      "product": "RAHK",
+      "revenue": 53500,
+      "orders": 2,
+      "p3": 36204,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH買い替え_発送DM_テスト①_DMF188",
+      "product": "RAH6",
+      "revenue": 2028789,
+      "orders": 134,
+      "p3": 617369,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH買い替え_発送DM_テスト①_DMF188",
+      "product": "RASA",
+      "revenue": 1850702,
+      "orders": 133,
+      "p3": 283471,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH買い替え_発送DM_テスト①_DMF188",
+      "product": "RASA",
+      "revenue": 2513435,
+      "orders": 179,
+      "p3": 664306,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH買い替え_発送DM_テスト①_DMF188",
+      "product": "RAH",
+      "revenue": 1506920,
+      "orders": 109,
+      "p3": 266579,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH買い替え_メール便_発送DM_テスト_DMF190",
+      "product": "RASA",
+      "revenue": 1454661,
+      "orders": 106,
+      "p3": 296482,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH買い替え_メール便_発送DM_テスト_DMF190",
+      "product": "RAH",
+      "revenue": 1048646,
+      "orders": 79,
+      "p3": 190179,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH買い替え_メール便_発送DM_テスト_DMF190",
+      "product": "RAHK",
+      "revenue": 20770,
+      "orders": 1,
+      "p3": 13654,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "活き活きシニア_メール便_発送DM_テスト_DMF191",
+      "product": "RAH",
+      "revenue": 242591,
+      "orders": 19,
+      "p3": -18196,
+      "category": "シニア訴求"
+    },
+    {
+      "promo": "活き活きシニア_メール便_発送DM_テスト_DMF191",
+      "product": "MQT",
+      "revenue": 119999,
+      "orders": 11,
+      "p3": -107057,
+      "category": "シニア訴求"
+    },
+    {
+      "promo": "活き活きシニア_メール便_発送DM_テスト_DMF191",
+      "product": "NICS",
+      "revenue": 73550,
+      "orders": 5,
+      "p3": -132989,
+      "category": "シニア訴求"
+    },
+    {
+      "promo": "活き活きシニア_メール便_発送DM_テスト_DMF191",
+      "product": "TRR3",
+      "revenue": 0,
+      "orders": 0,
+      "p3": -168025,
+      "category": "シニア訴求"
+    },
+    {
+      "promo": "SOY大豆追加購入_発送DM_RO_DME38",
+      "product": "SOY",
+      "revenue": 778255,
+      "orders": 87,
+      "p3": 382911,
+      "category": "その他"
+    }
+  ],
+  "2": [
+    {
+      "promo": "お誕生日_発送DM_RO①_DMB154",
+      "product": "RAH",
+      "revenue": 2319106,
+      "orders": 181,
+      "p3": 486095,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO①_DMB154",
+      "product": "SOY",
+      "revenue": 1536247,
+      "orders": 97,
+      "p3": 150563,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO①_DMB154",
+      "product": "INV2",
+      "revenue": 1458047,
+      "orders": 73,
+      "p3": -42760,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO①_DMB154",
+      "product": "ORS",
+      "revenue": 1435745,
+      "orders": 103,
+      "p3": 128421,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO①_DMB154",
+      "product": "TRR2",
+      "revenue": 903236,
+      "orders": 25,
+      "p3": -104718,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO①_DMB154",
+      "product": "その他",
+      "revenue": 307898,
+      "orders": 10,
+      "p3": 204616,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO②_DMB155　AIスコアリング",
+      "product": "RAH",
+      "revenue": 2813507,
+      "orders": 218,
+      "p3": 848530,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO②_DMB155　AIスコアリング",
+      "product": "SOY",
+      "revenue": 1813184,
+      "orders": 102,
+      "p3": 391421,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO②_DMB155　AIスコアリング",
+      "product": "INV2",
+      "revenue": 1545274,
+      "orders": 75,
+      "p3": 80821,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO②_DMB155　AIスコアリング",
+      "product": "ORS",
+      "revenue": 1516513,
+      "orders": 116,
+      "p3": 238199,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO②_DMB155　AIスコアリング",
+      "product": "TRR2",
+      "revenue": 1009683,
+      "orders": 33,
+      "p3": 9299,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO②_DMB155　AIスコアリング",
+      "product": "その他",
+      "revenue": 291215,
+      "orders": 13,
+      "p3": 181523,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO③_DMB158",
+      "product": "RAH",
+      "revenue": 1380691,
+      "orders": 104,
+      "p3": 363661,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO③_DMB158",
+      "product": "INV2",
+      "revenue": 661352,
+      "orders": 30,
+      "p3": -42303,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO③_DMB158",
+      "product": "SOY",
+      "revenue": 652170,
+      "orders": 43,
+      "p3": 6026,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO③_DMB158",
+      "product": "ORS",
+      "revenue": 433154,
+      "orders": 33,
+      "p3": -109100,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO③_DMB158",
+      "product": "TRR2",
+      "revenue": 280669,
+      "orders": 9,
+      "p3": -167408,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO③_DMB158",
+      "product": "その他",
+      "revenue": 180664,
+      "orders": 7,
+      "p3": 117120,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト①_DMB156",
+      "product": "RAH",
+      "revenue": 830564,
+      "orders": 64,
+      "p3": 266539,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト①_DMB156",
+      "product": "RAHK",
+      "revenue": 457036,
+      "orders": 21,
+      "p3": 296386,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト①_DMB156",
+      "product": "INV2",
+      "revenue": 283513,
+      "orders": 14,
+      "p3": -41316,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト①_DMB156",
+      "product": "ORS",
+      "revenue": 259563,
+      "orders": 18,
+      "p3": -24404,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト①_DMB156",
+      "product": "SOY",
+      "revenue": 233406,
+      "orders": 16,
+      "p3": -48700,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト①_DMB156",
+      "product": "その他",
+      "revenue": 293584,
+      "orders": 10,
+      "p3": 180765,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト②_DMB157",
+      "product": "RAH",
+      "revenue": 833392,
+      "orders": 56,
+      "p3": 315528,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト②_DMB157",
+      "product": "ORS",
+      "revenue": 433299,
+      "orders": 29,
+      "p3": 102194,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト②_DMB157",
+      "product": "SOY",
+      "revenue": 363025,
+      "orders": 24,
+      "p3": 54997,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト②_DMB157",
+      "product": "TRR3",
+      "revenue": 311359,
+      "orders": 9,
+      "p3": 54886,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト②_DMB157",
+      "product": "INV2",
+      "revenue": 306273,
+      "orders": 16,
+      "p3": -7606,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト②_DMB157",
+      "product": "その他",
+      "revenue": 83323,
+      "orders": 4,
+      "p3": 50905,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO①_DMC206　既存ロジック",
+      "product": "TRR3",
+      "revenue": 8302649,
+      "orders": 258,
+      "p3": 993878,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO①_DMC206　既存ロジック",
+      "product": "TRAF",
+      "revenue": 4917646,
+      "orders": 157,
+      "p3": -1220830,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO①_DMC206　既存ロジック",
+      "product": "TRPA",
+      "revenue": 99824,
+      "orders": 2,
+      "p3": 59810,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO①_DMC206　既存ロジック",
+      "product": "TRPM",
+      "revenue": 46317,
+      "orders": 1,
+      "p3": 21909,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO①_DMC206　既存ロジック",
+      "product": "TRGR",
+      "revenue": 9073,
+      "orders": 1,
+      "p3": 4472,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO①_DMC206　既存ロジック",
+      "product": "その他",
+      "revenue": 0,
+      "orders": 0,
+      "p3": 0,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO②_DMC207　AIスコアリング",
+      "product": "TRR3",
+      "revenue": 12404305,
+      "orders": 370,
+      "p3": 1982462,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO②_DMC207　AIスコアリング",
+      "product": "TRAF",
+      "revenue": 7479572,
+      "orders": 229,
+      "p3": -1236774,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO②_DMC207　AIスコアリング",
+      "product": "TRR2",
+      "revenue": 75389,
+      "orders": 2,
+      "p3": 47259,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO②_DMC207　AIスコアリング",
+      "product": "TRPA",
+      "revenue": 68087,
+      "orders": 2,
+      "p3": 40734,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO②_DMC207　AIスコアリング",
+      "product": "TRPM",
+      "revenue": 38825,
+      "orders": 1,
+      "p3": 16917,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO②_DMC207　AIスコアリング",
+      "product": "その他",
+      "revenue": 0,
+      "orders": 0,
+      "p3": 0,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト①_DMC208",
+      "product": "TRR3",
+      "revenue": 1559390,
+      "orders": 46,
+      "p3": 248544,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト①_DMC208",
+      "product": "TRAF",
+      "revenue": 1021061,
+      "orders": 32,
+      "p3": -112180,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト①_DMC208",
+      "product": "その他",
+      "revenue": 0,
+      "orders": 0,
+      "p3": 0,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト②_DMC209",
+      "product": "TRR3",
+      "revenue": 1596554,
+      "orders": 49,
+      "p3": 278708,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト②_DMC209",
+      "product": "TRAF",
+      "revenue": 808912,
+      "orders": 26,
+      "p3": -242919,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト②_DMC209",
+      "product": "その他",
+      "revenue": 0,
+      "orders": 0,
+      "p3": 0,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_メール便_発送DM_RO_DMC210",
+      "product": "TRR3",
+      "revenue": 2776447,
+      "orders": 82,
+      "p3": 845916,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_メール便_発送DM_RO_DMC210",
+      "product": "TRAF",
+      "revenue": 1182111,
+      "orders": 36,
+      "p3": -219710,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_メール便_発送DM_RO_DMC210",
+      "product": "その他",
+      "revenue": 0,
+      "orders": 0,
+      "p3": 0,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_RO_DMF193",
+      "product": "RAHK",
+      "revenue": 8385932,
+      "orders": 334,
+      "p3": 3700345,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_RO_DMF193",
+      "product": "RASA",
+      "revenue": 3643871,
+      "orders": 257,
+      "p3": 922404,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_RO_DMF193",
+      "product": "RATV",
+      "revenue": 460788,
+      "orders": 33,
+      "p3": -1076256,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_RO_DMF193",
+      "product": "RAH",
+      "revenue": 306150,
+      "orders": 24,
+      "p3": 208458,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_RO_DMF193",
+      "product": "INV2",
+      "revenue": 17650,
+      "orders": 1,
+      "p3": 7611,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_RO_DMF193",
+      "product": "その他",
+      "revenue": 0,
+      "orders": 0,
+      "p3": 0,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_テスト①_DMF194",
+      "product": "RAHK",
+      "revenue": 1083163,
+      "orders": 41,
+      "p3": 370984,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_テスト①_DMF194",
+      "product": "RASA",
+      "revenue": 800291,
+      "orders": 58,
+      "p3": 217825,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_テスト①_DMF194",
+      "product": "RATV",
+      "revenue": 89530,
+      "orders": 7,
+      "p3": -190694,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_テスト①_DMF194",
+      "product": "RAH",
+      "revenue": 60920,
+      "orders": 5,
+      "p3": 38858,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_テスト①_DMF194",
+      "product": "その他",
+      "revenue": 0,
+      "orders": 0,
+      "p3": 0,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_テスト②_DMF195",
+      "product": "RAHK",
+      "revenue": 1177041,
+      "orders": 47,
+      "p3": 437996,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_テスト②_DMF195",
+      "product": "RASA",
+      "revenue": 743618,
+      "orders": 54,
+      "p3": 199606,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_テスト②_DMF195",
+      "product": "RATV",
+      "revenue": 116376,
+      "orders": 6,
+      "p3": -169787,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_テスト②_DMF195",
+      "product": "RAH",
+      "revenue": 72980,
+      "orders": 6,
+      "p3": 48183,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_テスト②_DMF195",
+      "product": "その他",
+      "revenue": 0,
+      "orders": 0,
+      "p3": 0,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_テスト③_DMF196",
+      "product": "RAHK",
+      "revenue": 1085542,
+      "orders": 43,
+      "p3": 387566,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_テスト③_DMF196",
+      "product": "RASA",
+      "revenue": 729581,
+      "orders": 47,
+      "p3": 217130,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_テスト③_DMF196",
+      "product": "RAH",
+      "revenue": 91533,
+      "orders": 7,
+      "p3": 62288,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_テスト③_DMF196",
+      "product": "RATV",
+      "revenue": 64260,
+      "orders": 4,
+      "p3": -200591,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_テスト③_DMF196",
+      "product": "SOY",
+      "revenue": 14400,
+      "orders": 1,
+      "p3": 8172,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_テスト③_DMF196",
+      "product": "その他",
+      "revenue": 0,
+      "orders": 0,
+      "p3": 0,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "SOY大豆追加購入_発送DM_RO_DME42",
+      "product": "SOY",
+      "revenue": 1476750,
+      "orders": 177,
+      "p3": -150202,
+      "category": "その他"
+    },
+    {
+      "promo": "SOY大豆追加購入_発送DM_RO_DME42",
+      "product": "その他",
+      "revenue": 0,
+      "orders": 0,
+      "p3": 0,
+      "category": "その他"
+    },
+    {
+      "promo": "活き活きシニア_メール便_発送DM_テスト_DMF198",
+      "product": "ORS",
+      "revenue": 123751,
+      "orders": 9,
+      "p3": -93637,
+      "category": "シニア訴求"
+    },
+    {
+      "promo": "活き活きシニア_メール便_発送DM_テスト_DMF198",
+      "product": "RAH",
+      "revenue": 105233,
+      "orders": 10,
+      "p3": -102981,
+      "category": "シニア訴求"
+    },
+    {
+      "promo": "活き活きシニア_メール便_発送DM_テスト_DMF198",
+      "product": "SOY",
+      "revenue": 85948,
+      "orders": 6,
+      "p3": -118712,
+      "category": "シニア訴求"
+    },
+    {
+      "promo": "活き活きシニア_メール便_発送DM_テスト_DMF198",
+      "product": "RAHK",
+      "revenue": 54300,
+      "orders": 3,
+      "p3": 33676,
+      "category": "シニア訴求"
+    },
+    {
+      "promo": "活き活きシニア_メール便_発送DM_テスト_DMF198",
+      "product": "TRR3",
+      "revenue": 32613,
+      "orders": 1,
+      "p3": -145819,
+      "category": "シニア訴求"
+    },
+    {
+      "promo": "活き活きシニア_メール便_発送DM_テスト_DMF198",
+      "product": "その他",
+      "revenue": 0,
+      "orders": 0,
+      "p3": 0,
+      "category": "シニア訴求"
+    },
+    {
+      "promo": "活き活きシニア_メール便_発送DM_テスト_DMF198",
+      "product": "その他",
+      "revenue": 0,
+      "orders": 0,
+      "p3": 0,
+      "category": "シニア訴求"
+    }
+  ],
+  "3": [
+    {
+      "promo": "お誕生日_発送DM_RO_DMB159",
+      "product": "RAH",
+      "revenue": 3333082,
+      "orders": 259,
+      "p3": 940012,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO_DMB159",
+      "product": "SOY",
+      "revenue": 2374254,
+      "orders": 144,
+      "p3": 593376,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO_DMB159",
+      "product": "ORS",
+      "revenue": 1793044,
+      "orders": 122,
+      "p3": 232140,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO_DMB159",
+      "product": "INV2",
+      "revenue": 1599463,
+      "orders": 73,
+      "p3": 12350,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO_DMB159",
+      "product": "TRR2",
+      "revenue": 1270283,
+      "orders": 38,
+      "p3": 88863,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO_DMB159",
+      "product": "その他",
+      "revenue": 419866,
+      "orders": 19,
+      "p3": 263135,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト①_DMB160",
+      "product": "RAH",
+      "revenue": 855266,
+      "orders": 70,
+      "p3": 166717,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト①_DMB160",
+      "product": "INV2",
+      "revenue": 678780,
+      "orders": 30,
+      "p3": 67639,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト①_DMB160",
+      "product": "ORS",
+      "revenue": 620908,
+      "orders": 40,
+      "p3": 90805,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト①_DMB160",
+      "product": "SOY",
+      "revenue": 557629,
+      "orders": 37,
+      "p3": 62158,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト①_DMB160",
+      "product": "TRR2",
+      "revenue": 292066,
+      "orders": 9,
+      "p3": -52458,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト①_DMB160",
+      "product": "その他",
+      "revenue": 273336,
+      "orders": 11,
+      "p3": 163853,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト②_DMB161",
+      "product": "RAH",
+      "revenue": 1256379,
+      "orders": 97,
+      "p3": 394596,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト②_DMB161",
+      "product": "SOY",
+      "revenue": 775680,
+      "orders": 43,
+      "p3": 188422,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト②_DMB161",
+      "product": "ORS",
+      "revenue": 715153,
+      "orders": 47,
+      "p3": 147692,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト②_DMB161",
+      "product": "INV2",
+      "revenue": 713025,
+      "orders": 34,
+      "p3": 83484,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト②_DMB161",
+      "product": "TRR2",
+      "revenue": 496890,
+      "orders": 13,
+      "p3": 78553,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト②_DMB161",
+      "product": "その他",
+      "revenue": 118572,
+      "orders": 7,
+      "p3": 71881,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO_DMC211",
+      "product": "TRR3",
+      "revenue": 30335086,
+      "orders": 899,
+      "p3": 9254602,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO_DMC211",
+      "product": "TRAF",
+      "revenue": 16169574,
+      "orders": 494,
+      "p3": -96160,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO_DMC211",
+      "product": "TRPA",
+      "revenue": 187973,
+      "orders": 5,
+      "p3": 114964,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO_DMC211",
+      "product": "TRPR3",
+      "revenue": 51617,
+      "orders": 1,
+      "p3": 28338,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO_DMC211",
+      "product": "TRR2",
+      "revenue": 36480,
+      "orders": 1,
+      "p3": 25215,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO_DMC211",
+      "product": "その他",
+      "revenue": 69733,
+      "orders": 4,
+      "p3": 34128,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト①_DMC212",
+      "product": "TRR3",
+      "revenue": 2715881,
+      "orders": 81,
+      "p3": 968654,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト①_DMC212",
+      "product": "TRAF",
+      "revenue": 1488495,
+      "orders": 45,
+      "p3": 160363,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト①_DMC212",
+      "product": "その他",
+      "revenue": 0,
+      "orders": 0,
+      "p3": 0,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト②_DMC213",
+      "product": "TRR3",
+      "revenue": 2820518,
+      "orders": 79,
+      "p3": 1011117,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト②_DMC213",
+      "product": "TRAF",
+      "revenue": 1412250,
+      "orders": 45,
+      "p3": 97179,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト②_DMC213",
+      "product": "その他",
+      "revenue": 0,
+      "orders": 0,
+      "p3": 0,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_メール便_発送DM_RO_DMC214",
+      "product": "TRR3",
+      "revenue": 2183991,
+      "orders": 61,
+      "p3": 539610,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_メール便_発送DM_RO_DMC214",
+      "product": "TRAF",
+      "revenue": 1052655,
+      "orders": 31,
+      "p3": -231020,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_メール便_発送DM_RO_DMC214",
+      "product": "その他",
+      "revenue": 0,
+      "orders": 0,
+      "p3": 0,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_メール便_発送DM_テスト_DMC215",
+      "product": "TRR3",
+      "revenue": 2154637,
+      "orders": 60,
+      "p3": 97791,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_メール便_発送DM_テスト_DMC215",
+      "product": "TRAF",
+      "revenue": 1579752,
+      "orders": 46,
+      "p3": -282971,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_メール便_発送DM_テスト_DMC215",
+      "product": "TRAF3",
+      "revenue": 203950,
+      "orders": 6,
+      "p3": 69495,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_メール便_発送DM_テスト_DMC215",
+      "product": "TRPR3",
+      "revenue": 103290,
+      "orders": 3,
+      "p3": 36525,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_メール便_発送DM_テスト_DMC215",
+      "product": "TRPA",
+      "revenue": 28680,
+      "orders": 1,
+      "p3": 18961,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_メール便_発送DM_テスト_DMC215",
+      "product": "その他",
+      "revenue": 0,
+      "orders": 0,
+      "p3": 0,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取WOW_発送DM_RO_DMC216",
+      "product": "TRAFS",
+      "revenue": 3130732,
+      "orders": 142,
+      "p3": 574342,
+      "category": "TRS下取WOW"
+    },
+    {
+      "promo": "TRS下取WOW_発送DM_RO_DMC216",
+      "product": "TRSP",
+      "revenue": 2507518,
+      "orders": 112,
+      "p3": 286788,
+      "category": "TRS下取WOW"
+    },
+    {
+      "promo": "TRS下取WOW_発送DM_RO_DMC216",
+      "product": "TRCS",
+      "revenue": 133515,
+      "orders": 6,
+      "p3": 88263,
+      "category": "TRS下取WOW"
+    },
+    {
+      "promo": "TRS下取WOW_発送DM_RO_DMC216",
+      "product": "TR7C",
+      "revenue": 33016,
+      "orders": 1,
+      "p3": 24199,
+      "category": "TRS下取WOW"
+    },
+    {
+      "promo": "TRS下取WOW_発送DM_RO_DMC216",
+      "product": "TRR3",
+      "revenue": 22280,
+      "orders": 1,
+      "p3": 16076,
+      "category": "TRS下取WOW"
+    },
+    {
+      "promo": "TRS下取WOW_発送DM_RO_DMC216",
+      "product": "その他",
+      "revenue": 0,
+      "orders": 0,
+      "p3": 0,
+      "category": "TRS下取WOW"
+    },
+    {
+      "promo": "RAH買い替え_発送DM_RO_DMF199",
+      "product": "RASA",
+      "revenue": 18545112,
+      "orders": 1329,
+      "p3": 3802578,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH買い替え_発送DM_RO_DMF199",
+      "product": "RAH",
+      "revenue": 15025654,
+      "orders": 1075,
+      "p3": 3554487,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH買い替え_発送DM_RO_DMF199",
+      "product": "RAHK",
+      "revenue": 170400,
+      "orders": 7,
+      "p3": 118670,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH買い替え_発送DM_RO_DMF199",
+      "product": "その他",
+      "revenue": 0,
+      "orders": 0,
+      "p3": 0,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH買い替え_発送DM_テスト①_DMF200",
+      "product": "RASA",
+      "revenue": 3009597,
+      "orders": 214,
+      "p3": 788984,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH買い替え_発送DM_テスト①_DMF200",
+      "product": "RAH",
+      "revenue": 2079007,
+      "orders": 148,
+      "p3": 520632,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH買い替え_発送DM_テスト①_DMF200",
+      "product": "その他",
+      "revenue": 0,
+      "orders": 0,
+      "p3": 0,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH買い替え_発送DM_テスト②_DMF201",
+      "product": "RASA",
+      "revenue": 2320907,
+      "orders": 167,
+      "p3": 461436,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH買い替え_発送DM_テスト②_DMF201",
+      "product": "RAH",
+      "revenue": 1728793,
+      "orders": 127,
+      "p3": 334064,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH買い替え_発送DM_テスト②_DMF201",
+      "product": "RAHK",
+      "revenue": 38000,
+      "orders": 1,
+      "p3": 25279,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH買い替え_発送DM_テスト②_DMF201",
+      "product": "その他",
+      "revenue": 0,
+      "orders": 0,
+      "p3": 0,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH買い替え_メール便_発送DM_RO_DMF202",
+      "product": "RASA",
+      "revenue": 1510136,
+      "orders": 110,
+      "p3": 113725,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH買い替え_メール便_発送DM_RO_DMF202",
+      "product": "RAH",
+      "revenue": 1071376,
+      "orders": 82,
+      "p3": -12182,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH買い替え_メール便_発送DM_RO_DMF202",
+      "product": "その他",
+      "revenue": 0,
+      "orders": 0,
+      "p3": 0,
+      "category": "RAH買い替え"
+    },
+    {
+      "promo": "RAH未購入男性_発送DM_テスト_DMF204",
+      "product": "RAHK",
+      "revenue": 636245,
+      "orders": 22,
+      "p3": -329667,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAH未購入男性_発送DM_テスト_DMF204",
+      "product": "RASA",
+      "revenue": 344798,
+      "orders": 22,
+      "p3": -176404,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAH未購入男性_発送DM_テスト_DMF204",
+      "product": "RAH",
+      "revenue": 185527,
+      "orders": 13,
+      "p3": -249605,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAH未購入男性_発送DM_テスト_DMF204",
+      "product": "その他",
+      "revenue": 0,
+      "orders": 0,
+      "p3": 0,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAH未購入男性_発送DM_テスト_DMF204",
+      "product": "その他",
+      "revenue": 0,
+      "orders": 0,
+      "p3": 0,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAH未購入男性_発送DM_テスト_DMF204",
+      "product": "その他",
+      "revenue": 0,
+      "orders": 0,
+      "p3": 0,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAH未購入男性_発送DM_テスト_DMF204",
+      "product": "その他",
+      "revenue": 0,
+      "orders": 0,
+      "p3": 0,
+      "category": "RAHシリーズ"
+    }
+  ],
+  "4": [
+    {
+      "promo": "お誕生日_発送DM_RO_DMB162",
+      "product": "RAH",
+      "revenue": 3025958,
+      "orders": 225,
+      "p3": 691964,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO_DMB162",
+      "product": "SOY",
+      "revenue": 1894231,
+      "orders": 117,
+      "p3": 203204,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO_DMB162",
+      "product": "ORS",
+      "revenue": 1356351,
+      "orders": 99,
+      "p3": -83197,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO_DMB162",
+      "product": "MQT",
+      "revenue": 957063,
+      "orders": 76,
+      "p3": -335052,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO_DMB162",
+      "product": "TRR3",
+      "revenue": 900728,
+      "orders": 27,
+      "p3": -211050,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_RO_DMB162",
+      "product": "その他",
+      "revenue": 1065959,
+      "orders": 66,
+      "p3": 580032,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト①_DMB163",
+      "product": "RAHK",
+      "revenue": 638064,
+      "orders": 25,
+      "p3": 210609,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト①_DMB163",
+      "product": "ORS",
+      "revenue": 485449,
+      "orders": 38,
+      "p3": 6214,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト①_DMB163",
+      "product": "SOY",
+      "revenue": 377123,
+      "orders": 23,
+      "p3": -507,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト①_DMB163",
+      "product": "RAH",
+      "revenue": 314316,
+      "orders": 26,
+      "p3": -27061,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト①_DMB163",
+      "product": "TRR3",
+      "revenue": 245142,
+      "orders": 7,
+      "p3": -46807,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト①_DMB163",
+      "product": "その他",
+      "revenue": 130516,
+      "orders": 11,
+      "p3": 66809,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト②_DMB164",
+      "product": "RAH",
+      "revenue": 576550,
+      "orders": 46,
+      "p3": 40467,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト②_DMB164",
+      "product": "SOY",
+      "revenue": 497858,
+      "orders": 31,
+      "p3": -11367,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト②_DMB164",
+      "product": "ORS",
+      "revenue": 441427,
+      "orders": 31,
+      "p3": -39052,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト②_DMB164",
+      "product": "TRR3",
+      "revenue": 290745,
+      "orders": 10,
+      "p3": -82353,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト②_DMB164",
+      "product": "RAHK",
+      "revenue": 35327,
+      "orders": 1,
+      "p3": 22646,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "お誕生日_発送DM_テスト②_DMB164",
+      "product": "その他",
+      "revenue": 197127,
+      "orders": 15,
+      "p3": 106189,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO_DMC217",
+      "product": "TRR3",
+      "revenue": 11248811,
+      "orders": 327,
+      "p3": 738269,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO_DMC217",
+      "product": "TRAF",
+      "revenue": 8763726,
+      "orders": 266,
+      "p3": -820382,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO_DMC217",
+      "product": "TRPA",
+      "revenue": 176702,
+      "orders": 4,
+      "p3": 107691,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO_DMC217",
+      "product": "TRSF",
+      "revenue": 11900,
+      "orders": 1,
+      "p3": 8115,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO_DMC217",
+      "product": "TRSK",
+      "revenue": 6655,
+      "orders": 1,
+      "p3": 3934,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_RO_DMC217",
+      "product": "その他",
+      "revenue": 1211509,
+      "orders": 38,
+      "p3": 807785,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト①_DMC218",
+      "product": "TRR3",
+      "revenue": 2301827,
+      "orders": 67,
+      "p3": 549523,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト①_DMC218",
+      "product": "TRAF",
+      "revenue": 1142378,
+      "orders": 36,
+      "p3": -190173,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト①_DMC218",
+      "product": "RAH",
+      "revenue": 8980,
+      "orders": 1,
+      "p3": 4685,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト①_DMC218",
+      "product": "その他",
+      "revenue": 347145,
+      "orders": 9,
+      "p3": 230126,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト②_DMC219",
+      "product": "TRR3",
+      "revenue": 2123316,
+      "orders": 60,
+      "p3": 442333,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト②_DMC219",
+      "product": "TRAF",
+      "revenue": 1157739,
+      "orders": 33,
+      "p3": -164833,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト②_DMC219",
+      "product": "TRPR3",
+      "revenue": 71889,
+      "orders": 1,
+      "p3": 28689,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_発送DM_テスト②_DMC219",
+      "product": "その他",
+      "revenue": 118293,
+      "orders": 4,
+      "p3": 81675,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_メール便_発送DM_RO_DMC220",
+      "product": "TRR3",
+      "revenue": 3445842,
+      "orders": 105,
+      "p3": 477995,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_メール便_発送DM_RO_DMC220",
+      "product": "TRAF",
+      "revenue": 3218063,
+      "orders": 94,
+      "p3": 314604,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取_メール便_発送DM_RO_DMC220",
+      "product": "その他",
+      "revenue": 293618,
+      "orders": 10,
+      "p3": 201498,
+      "category": "TRS下取定期"
+    },
+    {
+      "promo": "TRS下取りお誕生日DM_発送DM_テスト_DMC221",
+      "product": "TRR3",
+      "revenue": 1956267,
+      "orders": 56,
+      "p3": 452316,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "TRS下取りお誕生日DM_発送DM_テスト_DMC221",
+      "product": "TRAF",
+      "revenue": 1513620,
+      "orders": 38,
+      "p3": 179188,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "TRS下取りお誕生日DM_発送DM_テスト_DMC221",
+      "product": "その他",
+      "revenue": 605756,
+      "orders": 17,
+      "p3": 404236,
+      "category": "お誕生日DM"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_RO_DMF205",
+      "product": "RAHK",
+      "revenue": 9617053,
+      "orders": 393,
+      "p3": 4339378,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_RO_DMF205",
+      "product": "RASA",
+      "revenue": 3818028,
+      "orders": 269,
+      "p3": 986241,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_RO_DMF205",
+      "product": "RAH",
+      "revenue": 595901,
+      "orders": 44,
+      "p3": 400165,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_RO_DMF205",
+      "product": "RATV",
+      "revenue": 332895,
+      "orders": 25,
+      "p3": -1251689,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_RO_DMF205",
+      "product": "RAH6",
+      "revenue": 11791,
+      "orders": 1,
+      "p3": 8543,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_RO_DMF205",
+      "product": "その他",
+      "revenue": 652096,
+      "orders": 30,
+      "p3": 417237,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_テスト①_DMF206",
+      "product": "RAHK",
+      "revenue": 1360527,
+      "orders": 50,
+      "p3": 403276,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_テスト①_DMF206",
+      "product": "RASA",
+      "revenue": 938271,
+      "orders": 66,
+      "p3": 222887,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_テスト①_DMF206",
+      "product": "RATV",
+      "revenue": 101720,
+      "orders": 8,
+      "p3": -283552,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_テスト①_DMF206",
+      "product": "RAH",
+      "revenue": 75553,
+      "orders": 6,
+      "p3": 47553,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_テスト①_DMF206",
+      "product": "その他",
+      "revenue": 110536,
+      "orders": 6,
+      "p3": 65962,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_テスト②_DMF207",
+      "product": "RAHK",
+      "revenue": 1709087,
+      "orders": 67,
+      "p3": 629127,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_テスト②_DMF207",
+      "product": "RASA",
+      "revenue": 703308,
+      "orders": 50,
+      "p3": 102005,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_テスト②_DMF207",
+      "product": "RATV",
+      "revenue": 127300,
+      "orders": 10,
+      "p3": -269888,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_テスト②_DMF207",
+      "product": "RAH",
+      "revenue": 70825,
+      "orders": 6,
+      "p3": 44614,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_テスト②_DMF207",
+      "product": "その他",
+      "revenue": 188626,
+      "orders": 9,
+      "p3": 116522,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_テスト②_DMF207",
+      "product": "その他",
+      "revenue": 0,
+      "orders": 0,
+      "p3": 0,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_テスト②_DMF207",
+      "product": "その他",
+      "revenue": 0,
+      "orders": 0,
+      "p3": 0,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_テスト②_DMF207",
+      "product": "その他",
+      "revenue": 0,
+      "orders": 0,
+      "p3": 0,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_テスト②_DMF207",
+      "product": "その他",
+      "revenue": 0,
+      "orders": 0,
+      "p3": 0,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_テスト②_DMF207",
+      "product": "その他",
+      "revenue": 0,
+      "orders": 0,
+      "p3": 0,
+      "category": "RAHシリーズ"
+    },
+    {
+      "promo": "RAHシリーズ紹介_発送DM_テスト②_DMF207",
+      "product": "その他",
+      "revenue": 0,
+      "orders": 0,
+      "p3": 0,
+      "category": "RAHシリーズ"
+    }
+  ]
+}
