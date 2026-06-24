@@ -9,13 +9,13 @@
   /* ── リセット & ベース ── */
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
   :root {
-    --bg:       #0f1117;
-    --bg2:      #161b25;
-    --bg3:      #1e2535;
-    --border:   rgba(255,255,255,0.08);
-    --border2:  rgba(255,255,255,0.15);
-    --text:     #e8eaf0;
-    --muted:    #7a8394;
+    --bg:       #ffffff;
+    --bg2:      #f8f9fa;
+    --bg3:      #f0f2f5;
+    --border:   rgba(0,0,0,0.08);
+    --border2:  rgba(0,0,0,0.15);
+    --text:     #1a1a2e;
+    --muted:    #6b7280;
     --accent:   #4f8ef7;
     --green:    #34d399;
     --red:      #f87171;
@@ -38,17 +38,17 @@
   .logo {
     padding: 0 20px 20px;
     font-size: 13px; font-weight: 600; letter-spacing: 0.04em;
-    color: var(--muted);
+    color: var(--text);
     border-bottom: 1px solid var(--border);
     text-transform: uppercase;
   }
   .logo span { color: var(--accent); }
   .nav { padding: 16px 0; }
-  .nav-label { padding: 8px 20px 4px; font-size: 11px; color: var(--muted); letter-spacing: 0.06em; text-transform: uppercase; }
+  .nav-label { padding: 8px 20px 4px; font-size: 11px; color: var(--text); letter-spacing: 0.06em; text-transform: uppercase; opacity: 0.6; }
   .nav-item {
     display: flex; align-items: center; gap: 10px;
     padding: 9px 20px; cursor: pointer;
-    color: var(--muted); font-size: 13px;
+    color: var(--text); font-size: 13px;
     transition: background 0.15s, color 0.15s;
     border-left: 3px solid transparent;
   }
@@ -96,7 +96,7 @@
     background: var(--bg2); border: 1px solid var(--border);
     border-radius: 10px; padding: 20px; margin-bottom: 20px;
   }
-  .panel-title { font-size: 13px; font-weight: 600; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 16px; }
+  .panel-title { font-size: 13px; font-weight: 600; color: var(--text); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 16px; }
   .panel-grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 20px; }
 
   /* ── チャートラッパー ── */
@@ -125,7 +125,7 @@
   }
   .badge-pos { background: rgba(52,211,153,0.15); color: var(--green); }
   .badge-neg { background: rgba(248,113,113,0.15); color: var(--red); }
-  .badge-neu { background: rgba(255,255,255,0.08); color: var(--muted); }
+  .badge-neu { background: rgba(0,0,0,0.06); color: var(--text); }
   .badge-test { background: rgba(251,191,36,0.15); color: var(--amber); }
 
   /* ── ヒートマップ ── */
@@ -166,7 +166,7 @@
 
 <!-- ── サイドバー ── -->
 <nav class="sidebar">
-  <div class="logo">DM<span>分析</span><br><small style="font-weight:400;font-size:10px;color:var(--muted)">ショップジャパン</small></div>
+  <div class="logo">DM<span>分析</span><br><small style="font-weight:400;font-size:10px;color:var(--text);opacity:0.6">ショップジャパン</small></div>
   <div class="nav">
     <div class="nav-label">ダッシュボード</div>
     <div class="nav-item active" data-page="overview">
@@ -527,8 +527,8 @@ function sumMetric(promos, metric) {
 }
 
 // ── Chart.js 共通オプション ──
-Chart.defaults.color = '#7a8394';
-Chart.defaults.borderColor = 'rgba(255,255,255,0.06)';
+Chart.defaults.color = '#6b7280';
+Chart.defaults.borderColor = 'rgba(0,0,0,0.08)';
 
 function lineOpts(yFmt) {
   return {
@@ -536,8 +536,8 @@ function lineOpts(yFmt) {
     interaction: { mode: 'index' },
     plugins: { legend: { display: false }, tooltip: { callbacks: { label: ctx => `${ctx.dataset.label}: ${yFmt(ctx.raw)}` } } },
     scales: {
-      x: { grid: { color: 'rgba(255,255,255,0.05)' } },
-      y: { grid: { color: 'rgba(255,255,255,0.05)' }, ticks: { callback: v => fmtShort(v,'p3') } }
+      x: { grid: { color: 'rgba(0,0,0,0.06)' } },
+      y: { grid: { color: 'rgba(0,0,0,0.06)' }, ticks: { callback: v => fmtShort(v,'p3') } }
     }
   };
 }
@@ -636,8 +636,8 @@ function renderOverview() {
       responsive: true, maintainAspectRatio: false,
       plugins: { legend: { display: false }, tooltip: { callbacks: { label: ctx => fmt(ctx.raw,'p3') } } },
       scales: {
-        x: { grid: { color: 'rgba(255,255,255,0.05)' } },
-        y: { grid: { color: 'rgba(255,255,255,0.05)' }, ticks: { callback: v => fmtShort(v,'p3') } }
+        x: { grid: { color: 'rgba(0,0,0,0.06)' } },
+        y: { grid: { color: 'rgba(0,0,0,0.06)' }, ticks: { callback: v => fmtShort(v,'p3') } }
       }
     }
   });
@@ -654,11 +654,11 @@ function renderOverview() {
     type: 'doughnut',
     data: {
       labels: posOnly,
-      datasets: [{ data: posOnly.map(c => catP3[c]), backgroundColor: posOnly.map(c => CAT_COLORS[c]||'#888'), borderWidth: 2, borderColor: '#161b25' }]
+      datasets: [{ data: posOnly.map(c => catP3[c]), backgroundColor: posOnly.map(c => CAT_COLORS[c]||'#888'), borderWidth: 2, borderColor: '#ffffff' }]
     },
     options: {
       responsive: true, maintainAspectRatio: false,
-      plugins: { legend: { display: true, position: 'right', labels: { color: '#7a8394', font: { size: 11 }, boxWidth: 12 } },
+      plugins: { legend: { display: true, position: 'right', labels: { color: '#6b7280', font: { size: 11 }, boxWidth: 12 } },
                  tooltip: { callbacks: { label: ctx => `${ctx.label}: ${fmt(ctx.raw,'p3')}` } } }
     }
   });
@@ -728,8 +728,8 @@ function renderTrend() {
       interaction: { mode: 'index' },
       plugins: { legend: { display: false }, tooltip: { callbacks: { label: ctx => `${ctx.dataset.label}: ${fmtShort(ctx.raw, metric)}` } } },
       scales: {
-        x: { grid: { color: 'rgba(255,255,255,0.05)' } },
-        y: { grid: { color: 'rgba(255,255,255,0.05)' }, ticks: { callback: v => fmtShort(v, metric) } }
+        x: { grid: { color: 'rgba(0,0,0,0.06)' } },
+        y: { grid: { color: 'rgba(0,0,0,0.06)' }, ticks: { callback: v => fmtShort(v, metric) } }
       }
     }
   });
@@ -778,8 +778,8 @@ function renderCategory() {
       interaction: { mode: 'index' },
       plugins: { legend: { display: false }, tooltip: { callbacks: { label: ctx => `${ctx.dataset.label}: ${fmtShort(ctx.raw, metric)}` } } },
       scales: {
-        x: { stacked: true, grid: { color: 'rgba(255,255,255,0.05)' } },
-        y: { stacked: true, grid: { color: 'rgba(255,255,255,0.05)' }, ticks: { callback: v => fmtShort(v, metric) } }
+        x: { stacked: true, grid: { color: 'rgba(0,0,0,0.06)' } },
+        y: { stacked: true, grid: { color: 'rgba(0,0,0,0.06)' }, ticks: { callback: v => fmtShort(v, metric) } }
       }
     }
   });
@@ -803,11 +803,11 @@ function renderCategory() {
     options: {
       responsive: true, maintainAspectRatio: false,
       interaction: { mode: 'index' },
-      plugins: { legend: { display: true, labels: { color: '#7a8394', font: { size: 11 }, boxWidth: 14 } },
+      plugins: { legend: { display: true, labels: { color: '#6b7280', font: { size: 11 }, boxWidth: 14 } },
                  tooltip: { callbacks: { label: ctx => `${ctx.dataset.label}: ${fmt(ctx.raw,'p3')}` } } },
       scales: {
-        x: { grid: { color: 'rgba(255,255,255,0.05)' } },
-        y: { grid: { color: 'rgba(255,255,255,0.05)' }, ticks: { callback: v => fmtShort(v,'p3') } }
+        x: { grid: { color: 'rgba(0,0,0,0.06)' } },
+        y: { grid: { color: 'rgba(0,0,0,0.06)' }, ticks: { callback: v => fmtShort(v,'p3') } }
       }
     }
   });
@@ -836,7 +836,7 @@ function renderHeatmap() {
   function cellStyle(v) {
     if (v > 0) { const t = v/maxV; return `background:rgba(52,211,153,${(0.1+t*0.6).toFixed(2)});color:#34d399;`; }
     if (v < 0) { const t = v/minV; return `background:rgba(248,113,113,${(0.1+t*0.6).toFixed(2)});color:#f87171;`; }
-    return 'background:rgba(255,255,255,0.03);color:#7a8394;';
+    return 'background:rgba(0,0,0,0.04);color:#6b7280;';
   }
 
   let html = `<table class="heatmap-table"><thead><tr><th style="text-align:left;min-width:110px">カテゴリ</th>` +
@@ -947,8 +947,8 @@ function renderProducts() {
       plugins: { legend: { display: false },
                  tooltip: { callbacks: { label: ctx => `${ctx.dataset.label}: ${fmtShort(ctx.raw, metric==='orders'?'send_count':'p3')}` } } },
       scales: {
-        x: { stacked: true, grid: { color: 'rgba(255,255,255,0.05)' } },
-        y: { stacked: true, grid: { color: 'rgba(255,255,255,0.05)' },
+        x: { stacked: true, grid: { color: 'rgba(0,0,0,0.06)' } },
+        y: { stacked: true, grid: { color: 'rgba(0,0,0,0.06)' },
              ticks: { callback: v => fmtShort(v, metric==='orders'?'send_count':'p3') } }
       }
     }
@@ -982,8 +982,8 @@ function renderProducts() {
       plugins: { legend: { display: false },
                  tooltip: { callbacks: { label: ctx => `${ctx.dataset.label}: ${ctx.raw}%` } } },
       scales: {
-        x: { grid: { color: 'rgba(255,255,255,0.05)' } },
-        y: { min:0, max:100, grid: { color: 'rgba(255,255,255,0.05)' },
+        x: { grid: { color: 'rgba(0,0,0,0.06)' } },
+        y: { min:0, max:100, grid: { color: 'rgba(0,0,0,0.06)' },
              ticks: { callback: v => v+'%' } }
       }
     }
@@ -1031,7 +1031,7 @@ function renderProdMatrix(cat, metric, allProds, months, byMonthProd, labels) {
     months.forEach(m => {
       const v = (byMonthProd[m][prod]||{})[metric] || 0;
       if (v === 0) {
-        html += `<td class="heatmap-cell" style="background:rgba(255,255,255,0.02);color:var(--muted);font-size:10px">—</td>`;
+        html += `<td class="heatmap-cell" style="background:rgba(0,0,0,0.04);color:var(--muted);font-size:10px">—</td>`;
       } else {
         const t   = v/maxV;
         const hex = color;
